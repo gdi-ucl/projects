@@ -1,0 +1,39 @@
+{
+  "slug": "spark-innovation",
+  "title": "Spark Innovation",
+  "source": "https://www.disabilityinnovation.com/projects/spark-innovation",
+  "details": {
+    "Status": "Live",
+    "Project type": "Innovation",
+    "Work type": "Incubate"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/62/enable-makeathon-2.0.webp?v=1788443431",
+    "alt": "photo of team smiling next to a GDI hub banner"
+  },
+  "resources": [
+    {
+      "label": "Innovator Enquiry form",
+      "url": "https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&token=0ffbe585d5bb4c28930886b4145a832e&id=_oivH5ipW0yTySEKEdmlwsBuyjbqVX1Ju_vQ8vHVdItUN1cyN1dQQVlITDFNSDIwNEdWNk5UM1g3UC4u&analysis=false"
+    },
+    {
+      "label": "TIDAL N+",
+      "url": "https://www.disabilityinnovation.com/projects/tidal"
+    },
+    {
+      "label": "Creating accessible interfaces for people living with MND, ALS or MD",
+      "url": "https://www.disabilityinnovation.com/projects/spark-innovation/idc2"
+    },
+    {
+      "label": "Microsoft Form: Spark Innovation Event",
+      "url": "https://forms.office.com/r/0X9ur2HPNK"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "An early-stage innovation programme using co-design, events and proof-of-concept support to develop responses to needs identified with disabled communities.",
+  "children": [
+    "spark-innovation/enable-makeathon-2-0"
+  ],
+  "parent": null,
+  "record_type": "Programme or collection"
+}

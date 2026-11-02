@@ -1,0 +1,3407 @@
+[
+  {
+    "slug": "about-tidal",
+    "title": "Transformative Innovation in the delivery of Assisted Living Products and Services (TIDAL)",
+    "source": "https://www.disabilityinnovation.com/projects/about-tidal",
+    "details": {
+      "Status": "Concluded",
+      "Project type": "Research; Programmes",
+      "Dates": "January 2022  — December 2024",
+      "Work type": "Incubate"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/179242/Untitled-design-12_2024-11-29-163718_yaro.webp?v=1788422449%2C0.5%2C0.5",
+      "alt": "People chatting. Two are standing and one is sitting in a wheelchair. The Tidal logo can be seen in the right bottom corner"
+    },
+    "resources": [
+      {
+        "label": "EP/W000717/1",
+        "url": "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W000717/1"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "TIDAL brought together research and practice to improve how assisted-living products and services are developed and delivered. The EPSRC-funded network ran from January 2022 to December 2024.",
+    "children": [
+      "about-tidal/tidal-blog-posts",
+      "about-tidal/tidal-community",
+      "about-tidal/tidal-education",
+      "about-tidal/tidal-feasibility-research",
+      "about-tidal/tidal-innovation"
+    ],
+    "parent": null,
+    "record_type": "Programme or collection"
+  },
+  {
+    "slug": "about-tidal/tidal-blog-posts",
+    "title": "TIDAL: Blog posts",
+    "source": "https://www.disabilityinnovation.com/projects/about-tidal/tidal-blog-posts",
+    "details": {
+      "Status": "Concluded"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/179242/Untitled-design-12_2024-11-29-163718_yaro.webp?v=1788422449%2C0.5%2C0.5",
+      "alt": "People chatting. Two are standing and one is sitting in a wheelchair. The Tidal logo can be seen in the right bottom corner"
+    },
+    "resources": [
+      {
+        "label": "https://www.ucl.ac.uk/tidal-assistive-tech/blog",
+        "url": "https://www.ucl.ac.uk/tidal-assistive-tech/blog"
+      },
+      {
+        "label": "Why assistive technology needs transformation",
+        "url": "https://www.ucl.ac.uk/tidal-assistive-tech/why-assistive-technology-innovation-needs-transformation"
+      },
+      {
+        "label": "Walking the walk on carbon reduction in TIDAL N+",
+        "url": "https://www.ucl.ac.uk/tidal-assistive-tech/wallking-walk-carbon-reduction-tidal-n"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A collection of articles documenting the TIDAL network’s work and perspectives on assistive technology.",
+    "children": [],
+    "parent": "about-tidal",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "about-tidal/tidal-community",
+    "title": "TIDAL: Community",
+    "source": "https://www.disabilityinnovation.com/projects/about-tidal/tidal-community",
+    "details": {
+      "Status": "Concluded",
+      "Work type": "Incubate"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/179780/Untitled-design-13_2024-11-29-165944_wuzf.webp?v=1788436341",
+      "alt": "People sat at table with laptops and notebooks chatting"
+    },
+    "resources": [
+      {
+        "label": "Devices for Dignity",
+        "url": "https://devicesfordignity.org.uk/"
+      },
+      {
+        "label": "3DLifePrints",
+        "url": "https://www.3dlifeprints.com/team/"
+      },
+      {
+        "label": "Assistive Technology and Medical Devices Unit",
+        "url": "https://www.who.int/teams/health-product-policy-and-standards/assistive-and-medical-technology"
+      },
+      {
+        "label": "Watch the launch",
+        "url": "https://www.youtube.com/watch?v=VEwj-5VQrPQ&t=2s"
+      },
+      {
+        "label": "Watch our Responsible Engineering workshop",
+        "url": "https://www.youtube.com/watch?v=QtVFJjgqeTg&t=1s"
+      },
+      {
+        "label": "Watch our DMS workshop",
+        "url": "https://www.youtube.com/watch?v=xK6jMi_lIRk"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "TIDAL connected assistive-technology users, researchers, clinicians and industry through events and collaborative activities. The website reports a network spanning more than 200 organisations.",
+    "children": [],
+    "parent": "about-tidal",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "about-tidal/tidal-education",
+    "title": "TIDAL: Education",
+    "source": "https://www.disabilityinnovation.com/projects/about-tidal/tidal-education",
+    "details": {
+      "Status": "Concluded",
+      "Work type": "Impart"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/180683/TIDAL-PAGES-2.webp?v=1788426071",
+      "alt": "People in meeting, discussing ideas"
+    },
+    "resources": [
+      {
+        "label": "Download the mentoring playbook",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/playbook-for-mentoring-release-candidate.pdf?v=1733322471"
+      },
+      {
+        "label": "repair of P&O",
+        "url": "https://cdn.disabilityinnovation.com/uploads/documents/Repair-Workshop-PO-report-FINAL-SG-LG-EDIT.pdf?v=1730130370"
+      },
+      {
+        "label": "repair of wheelchairs",
+        "url": "https://cdn.disabilityinnovation.com/uploads/documents/publications/Repair-Workshop-Wheelchair-report-v4.pdf?v=1730815482"
+      },
+      {
+        "label": "SoRo-Health",
+        "url": "https://www.softroboticshealth.org.uk/"
+      },
+      {
+        "label": "webinar on current trends",
+        "url": "https://www.youtube.com/watch?v=iEi44D3ApUI&t=2s"
+      },
+      {
+        "label": "Download the Soft Robotics Workshop Report",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Soft-Robotics-workshop-report.pdf?v=1740406083"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "TIDAL supported researchers and innovators through training, funding-development workshops and opportunities to exchange knowledge about assistive technology.",
+    "children": [],
+    "parent": "about-tidal",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "about-tidal/tidal-feasibility-research",
+    "title": "TIDAL: Feasibility Research",
+    "source": "https://www.disabilityinnovation.com/projects/about-tidal/tidal-feasibility-research",
+    "details": {
+      "Status": "Concluded"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/180137/TIDAL-PAGES-1.webp?v=1788436341",
+      "alt": "hand holding pen near to notebook"
+    },
+    "resources": [
+      {
+        "label": "Video: An affordable and flexible prosthetic socket",
+        "url": "https://www.youtube.com/watch?v=Yb-UUXu8wuk&list=PLZi_mzfbwvfbAmTMzrmSNF209hD1ASHEj&index=4"
+      },
+      {
+        "label": "Open the report on prosthetic sockets",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Berthaume-LSBU-KCL-TIDAL-Network-Plus-feasibility-project-report.pdf?v=1733320308"
+      },
+      {
+        "label": "Video: A person based approach to the development of upper limb prostheses",
+        "url": "https://www.youtube.com/watch?v=fvQQvOBZcTQ&list=PLZi_mzfbwvfbAmTMzrmSNF209hD1ASHEj&index=7"
+      },
+      {
+        "label": "Open the report on upper limb prostheses",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Metcalfe-Jabban-Bath-Person-based-prostheses-Feasibility-Project-Report_FINAL.pdf?v=1733320389"
+      },
+      {
+        "label": "Video: Remote capture of patient data for bespoke socket design",
+        "url": "https://www.youtube.com/watch?v=0EDopYukxs8&list=PLZi_mzfbwvfbAmTMzrmSNF209hD1ASHEj&index=8"
+      },
+      {
+        "label": "Open the report on remote scanning",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/241231-Seminati-Bailey-TIDAL-Report-Remote-Scanning-updated.pdf?v=1738593536"
+      },
+      {
+        "label": "Video: Algorithmic design of functionally graded prosthetic liners",
+        "url": "https://www.youtube.com/watch?v=46oP8zGUTxI&list=PLZi_mzfbwvfbAmTMzrmSNF209hD1ASHEj&index=11"
+      },
+      {
+        "label": "Open the report on prosthetic liners",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Oldfrey-UCL-prosthetic-liners_revised-FINAL-report.pdf?v=1738856152"
+      },
+      {
+        "label": "Video: Bespoke entry-level wheelchair rugby chairs through advanced distributed manufacturing",
+        "url": "https://www.youtube.com/watch?v=bs7p0Pw8oF4&list=PLZi_mzfbwvfbAmTMzrmSNF209hD1ASHEj&index=3"
+      },
+      {
+        "label": "Open the report on Bespoke entry-level Wheelchair Rugby chairs",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Whitehead-Aston-3D-printed-wheelchairs_revised_FINAL.pdf?v=1738856119"
+      },
+      {
+        "label": "Video: Improving the efficiency of co-designing personalised AT",
+        "url": "https://www.youtube.com/watch?v=I5VfA9z9nPg&list=PLZi_mzfbwvfbAmTMzrmSNF209hD1ASHEj&index=6"
+      },
+      {
+        "label": "Open the report on co-designing personalised assistive technology",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Howard-Swansea-Feasibility-Report-Improving-the-efficiency-of-co-designing-personalised-AT_FINAL.pdf?v=1733320816"
+      },
+      {
+        "label": "Video: Can a completely different kind of wheel improve quality of life for wheelchair users?",
+        "url": "https://www.youtube.com/watch?v=fXz3K1PeZek&list=PLZi_mzfbwvfbAmTMzrmSNF209hD1ASHEj&index=1"
+      },
+      {
+        "label": "Open the report on novel non-pneumatic wheelchair tyres",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Wyatt_Feasibility-report-FINAL-accessibility-checked.pdf?v=1733320869"
+      },
+      {
+        "label": "Video: Physiological validation of a novel photonic biosensor",
+        "url": "https://www.youtube.com/watch?v=54Um1xGlYg4&list=PLZi_mzfbwvfbAmTMzrmSNF209hD1ASHEj&index=2"
+      },
+      {
+        "label": "Open the report on sensors, data and communication",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Dyson-Feasibility-project-report-revised-FINAL.pdf?v=1738773108"
+      },
+      {
+        "label": "Video: How can we improve the experience of listening to music through hearing aids?",
+        "url": "https://www.youtube.com/watch?v=vCr0h8oKxjY&list=PLZi_mzfbwvfbAmTMzrmSNF209hD1ASHEj"
+      },
+      {
+        "label": "Open the report on improved communication of music via hearing aid",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Williams-Salford-Feasibility-project-report-final.pdf?v=1733321006"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "Nine feasibility studies explored early assistive-technology concepts, including prosthetics, wheelchair design and communication support, with the aim of enabling further development.",
+    "children": [],
+    "parent": "about-tidal",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "about-tidal/tidal-innovation",
+    "title": "TIDAL: Innovation",
+    "source": "https://www.disabilityinnovation.com/projects/about-tidal/tidal-innovation",
+    "details": {
+      "Status": "Concluded"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/179810/TIDAL-PAGES.webp?v=1788432767",
+      "alt": "People working as a group on a desk. Tidal logo in right bottom corner"
+    },
+    "resources": [
+      {
+        "label": "Read the report: The impact of Brexit on Assistive Technologies Evidence Brief",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Report-Impact-of-Brexit-on-AT-regulation-FINAL.pdf?v=1733319361"
+      },
+      {
+        "label": "Read the report Mapping of the Mobility AT Ecosystem in Malawi: The Case of Malawi Against Physical Disabilities (MAP)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/AT-Mapping-Report-MAP-Case-Study-FINAL.pdf?v=1738857003"
+      },
+      {
+        "label": "Read the report: TIDAL training needs survey results 2023 – Narrative Report",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Training-needs-TIDAL-training-survey-results-narrative-report.pdf?v=1733319499"
+      },
+      {
+        "label": "Read the report: TIDAL training needs survey results 2023 – Data Visualisation",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Training-needs-TIDAL-training-survey-results-graphs-to-go-with-narrative-report.pdf?v=1733319518"
+      },
+      {
+        "label": "Read the report Barriers and strategies to translate assistive technology research into practice in the UK.",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Barriers-and-Strategies-to-Translate-AT-FINAL_compressed.pdf?v=1738857177"
+      },
+      {
+        "label": "Read the report on Open-access Prosthetics Provision and Repairs Registry",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/TIDAL-report_Salford_Prosthetics-Registry_FINAL.pdf?v=1739553591"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "This TIDAL work examined what helps or prevents assistive-technology innovation, including regulation, local ecosystems and the movement of research into practice.",
+    "children": [],
+    "parent": "about-tidal",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "adb-disability-inclusion",
+    "title": "Supporting ADB with Strengthening Poverty and Social Analysis - Disability Inclusion",
+    "source": "https://www.disabilityinnovation.com/projects/adb-disability-inclusion",
+    "details": {},
+    "image": null,
+    "resources": [
+      {
+        "label": "Jumpstarting S2030",
+        "url": "https://events.development.asia/materials/20210818/video-jumpstarting-s2030-tapping-power-lnclusive-design"
+      },
+      {
+        "label": "COP26",
+        "url": "https://www.youtube.com/watch?v=c5iVCekVyns"
+      },
+      {
+        "label": "Disabled Voices",
+        "url": "https://www.youtube.com/watch?v=_0Yy1_SI6Vk"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "GDI supported the Asian Development Bank’s work on disability inclusion within poverty and social analysis, combining research, knowledge exchange and capacity building.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "artificial-intelligence-for-mental-wellbeing",
+    "title": "Artificial Intelligence for Mental Wellbeing Monitoring",
+    "source": "https://www.disabilityinnovation.com/projects/artificial-intelligence-for-mental-wellbeing",
+    "details": {
+      "Status": "Concluded",
+      "Project type": "Research",
+      "Country": "United Kingdom",
+      "Work type": "Inquire"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/847/mental_wellbeing_youngjun2.webp?v=1788443448",
+      "alt": "An image of mental stress monitoring."
+    },
+    "resources": [
+      {
+        "label": "https://arxiv.org/abs/1905.05144",
+        "url": "https://arxiv.org/abs/1905.05144"
+      },
+      {
+        "label": "https://mental.jmir.org/2019/4/e10140/",
+        "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmental.jmir.org%2F2019%2F4%2Fe10140%2F&data=02%7C01%7C%7C9611e690fa1048a363a508d75611c3aa%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C637072506601813193&sdata=WV6eSohZ%2Fxf%2BdZNlqhwo%2BhfNNPiuggXbUxSVaSbXoyI%3D&reserved=0"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "Research into affordable mobile-sensing approaches for measuring mental wellbeing in everyday environments.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "asian-development-bank-inclusive-tourism",
+    "title": "Asian Development Bank - Inclusive Tourism ﻿",
+    "source": "https://www.disabilityinnovation.com/projects/asian-development-bank-inclusive-tourism",
+    "details": {},
+    "image": null,
+    "resources": [
+      {
+        "label": "Asian Development Bank",
+        "url": "https://www.adb.org/"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "GDI advised an Asian Development Bank programme on accessible tourism in Georgia, drawing on experience of inclusive infrastructure and urban design.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "assistive-technology-need-data-repository",
+    "title": "Assistive Technology Need Data Repository",
+    "source": "https://www.disabilityinnovation.com/projects/assistive-technology-need-data-repository",
+    "details": {
+      "Status": "Concluded",
+      "Project type": "Research",
+      "Work type": "Inquire"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/190394/live-lab-2.webp?v=1788447762",
+      "alt": "A person in a blue sari walks alongside a person on a home-built wheelchair, holding onto the back of the wheelchair. The person on the wheelchair holds a green and blue umbrella."
+    },
+    "resources": [
+      {
+        "label": "Scoping Review",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/10400435.2021.1957039"
+      },
+      {
+        "label": "Systematic Review",
+        "url": "https://at2030.org/estimating-need-and-coverage-for-five-priority-assistive-products/"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A collection of population-level evidence about assistive-technology requirements and access, supported by evidence reviews and a public data repository.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "at2030",
+    "title": "AT2030",
+    "source": "https://www.disabilityinnovation.com/projects/at2030",
+    "details": {
+      "Status": "Live",
+      "Project type": "Research; Innovation; Programmes; Advocacy",
+      "Country": "Asia; Africa",
+      "Work type": "Include"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/187798/Project-images.webp?v=1788422451",
+      "alt": "Person holding up mobile phone and pointing at at. They are smiling"
+    },
+    "resources": [
+      {
+        "label": "AT2030 website",
+        "url": "https://at2030.org/"
+      },
+      {
+        "label": "Global Action Report",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Global-Action-Report.pdf?v=1741160065"
+      },
+      {
+        "label": "accelerate frontier technology solutions for people",
+        "url": "https://atimpactfund.com/about"
+      },
+      {
+        "label": "Youth Attitudes Towards Disability Sport & Assistive Technology (2025)",
+        "url": "https://www.disabilityinnovation.com/publications/youth-attitudes-towards-disability-sport-assistive-technology"
+      },
+      {
+        "label": "Global Action Report and Global Comparison Report (2024)",
+        "url": "https://www.disabilityinnovation.com/news/inclusive-cities"
+      },
+      {
+        "label": "Guidelines for assistive technology service provision – A scoping review (2024)",
+        "url": "https://www.disabilityinnovation.com/publications/guidelines-for-assistive-technology-service-provision-a-scoping-review"
+      },
+      {
+        "label": "Unlocking Sustainable and Resilient Assistive Technology Innovation and Delivery Ecosystems: Personalised Co-creation of Locally Produced Prosthetics (2024)",
+        "url": "https://www.disabilityinnovation.com/publications/unlocking-sustainable-and-resilient-assistive-technology-innovation-and-delivery-ecosystems-personalised-co-creation-of-locally-produced-prosthetics"
+      },
+      {
+        "label": "Repair strategies for assistive technology in low-resource settings (2023)",
+        "url": "https://www.disabilityinnovation.com/publications/repair-strategies-for-at"
+      },
+      {
+        "label": "Disability design and innovation in computing research in low resource settings (2020)",
+        "url": "https://www.disabilityinnovation.com/publications/disability-design-and-innovation-in-computing-research-in-low-resource-settings"
+      },
+      {
+        "label": "Blog: AT2030 innovator Brian Mwenda makes the Forbes Europe 30 Under 30 list for Social Impact with his venture, Hope Tech (2025)",
+        "url": "https://at2030.org/brian-mwenda-forbes/"
+      },
+      {
+        "label": "Event: Global Disability Summit: Side Event Al for development - bridging the barrier between non-standard speech and the use of Automatic Speech Recognition (2",
+        "url": "https://at2030.org/global-disability-summit-side-event-ai/"
+      },
+      {
+        "label": "News: Changing lives through AI - how a new Centre for Digital Language Inclusion will bridge the barrier between non-standard speech and the use of Automatic S",
+        "url": "https://at2030.org/cdli/"
+      },
+      {
+        "label": "Blog: Paris Paralympics - A reflection of performance on and off the field, by Ben Hardman GDI Hub Head of Innovation (2024)",
+        "url": "https://at2030.org/a-reflection-on-the-performance-on-and-off-the-field/"
+      },
+      {
+        "label": "News: Easy-fit prosthetics offer hope to thousands of Gaza amputees (2024)",
+        "url": "https://at2030.org/gaza/"
+      },
+      {
+        "label": "Blog: Assistive technology in your pocket: the transformative potential of smartphones (2023)",
+        "url": "https://at2030.org/assistive-technology-in-your-pocket/"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "AT2030 is a GDI-led programme bringing international expertise and local delivery partners together to improve access to assistive technology, with funding from the UK Foreign, Commonwealth and Development Office.",
+    "children": [
+      "at2030/accelerate",
+      "at2030/community-led-solutions-assistive-tech-in-informal-settlements",
+      "at2030/inclusive-infrastructure",
+      "at2030/local-systems-strengthening",
+      "at2030/mobile-as-at",
+      "at2030/opd-capacity-building",
+      "at2030/para-sport-against-stigma"
+    ],
+    "parent": null,
+    "record_type": "Programme or collection"
+  },
+  {
+    "slug": "at2030-inclusive-infrastructure",
+    "title": "AT2030 Inclusive Infrastructure",
+    "source": "https://www.disabilityinnovation.com/projects/at2030-inclusive-infrastructure",
+    "details": {},
+    "image": null,
+    "resources": [
+      {
+        "label": "Ulaanbaatar, Mongolia Case Study report",
+        "url": "https://at2030.org/inclusive-design-and-accessibility-of-the-built-environment-in-ulaanbaatar,-mongolia/"
+      },
+      {
+        "label": "Dissemination Event and Stakeholder Engagement in Mongolia",
+        "url": "https://www.disabilityinnovation.com/webinars/the-launch-of-the-at2030-inclusive-infrastruture-case-study-in-ulaanbaatar-mongolia"
+      },
+      {
+        "label": "Opportunities and challenges for disability inclusion during the COVID-19 pandemic",
+        "url": "https://www.disabilityinnovation.com/blog/opportunities-and-challenges-for-disability-inclusion-during-the-covid-19-pandemic"
+      },
+      {
+        "label": "Inclusive design research in a pandemic",
+        "url": "https://www.disabilityinnovation.com/blog/inclusive-design-research-in-a-pandemic-working-remotely-in-ulaanbaatar-mongolia"
+      },
+      {
+        "label": "Co-design workshop in Varanasi",
+        "url": "https://www.disabilityinnovation.com/news/id-workshop-varanasi-india"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "Research into the buildings, infrastructure and urban environments that enable people to benefit from assistive technology. Case studies inform recommendations for more inclusive cities.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "at2030/accelerate",
+    "title": "GDI Hub Accelerate",
+    "source": "https://www.disabilityinnovation.com/projects/at2030/accelerate",
+    "details": {
+      "Status": "Live",
+      "Project type": "Innovation",
+      "Country": "Asia; Africa",
+      "Work type": "Incubate"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/189178/Project-images-6.webp?v=1788425712",
+      "alt": "A person in a suit is giving a presentation to an audience. Behind them, a large screen displays an image of two black rings and a black band with a red accent."
+    },
+    "resources": [
+      {
+        "label": "Submit your innovator enquiry here to connect with GDI Hub Accelerate",
+        "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwsBuyjbqVX1Ju_vQ8vHVdItUN1cyN1dQQVlITDFNSDIwNEdWNk5UM1g3UC4u"
+      },
+      {
+        "label": "Innovate Now",
+        "url": "https://atinnovatenow.com"
+      },
+      {
+        "label": "Attvaran",
+        "url": "https://at2030.org/attvaran-india-launch/"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "Accelerate supports the development of assistive-technology ventures, from identifying ideas through to growth, using research, accelerator programmes and advisory support.",
+    "children": [],
+    "parent": "at2030",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "at2030/community-led-solutions-assistive-tech-in-informal-settlements",
+    "title": "Community-led Solutions: Assistive Tech in informal settlements",
+    "source": "https://www.disabilityinnovation.com/projects/at2030/community-led-solutions-assistive-tech-in-informal-settlements",
+    "details": {
+      "Status": "Concluded",
+      "Project type": "Research; Programmes",
+      "Country": "Indonesia; Sierra Leone",
+      "Work type": "Include"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/543/Freetown.webp?v=1788439300",
+      "alt": "View of Portee-Rokupa, an informal settlement in the East of Freetown, Sierra Leone"
+    },
+    "resources": [
+      {
+        "label": "AT2030",
+        "url": "https://at2030.org/"
+      },
+      {
+        "label": "UCL’s Development Planning Unit",
+        "url": "https://www.ucl.ac.uk/bartlett/development"
+      },
+      {
+        "label": "Leonard Cheshire",
+        "url": "https://www.leonardcheshire.org"
+      },
+      {
+        "label": "SLURC",
+        "url": "https://www.ucl.ac.uk/bartlett/research-projects/2016/dec/slurc-sierra-leone-urban-research-centre"
+      },
+      {
+        "label": "FEDURP",
+        "url": "https://codohsapa.org"
+      },
+      {
+        "label": "Kota Kita",
+        "url": "https://kotakita.org"
+      },
+      {
+        "label": "Kaki Kota",
+        "url": "https://at2030.org/kaki-kota/"
+      },
+      {
+        "label": "Explore this research in full",
+        "url": "https://at2030.org/at2030-community-led-solutions-assistive-technologies-in-informal-settlements-in-sierra-leone-and-indonesia/"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "Participatory research in Freetown and Banjarmasin examined how disabled residents of informal settlements obtain and adapt assistive technology, and worked with communities to develop solutions.",
+    "children": [],
+    "parent": "at2030",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "at2030/inclusive-infrastructure",
+    "title": "Inclusive infrastructure and design",
+    "source": "https://www.disabilityinnovation.com/projects/at2030/inclusive-infrastructure",
+    "details": {
+      "Status": "Live",
+      "Country": "Asia; Africa",
+      "Work type": "Integrate"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/188584/inclusive-cities-1.webp?v=1788441769",
+      "alt": "Person in wheelchair approaching place of worship in India"
+    },
+    "resources": [
+      {
+        "label": "The Global Action and Comparison Reports",
+        "url": "https://www.disabilityinnovation.com/publications/inclusive-cities"
+      },
+      {
+        "label": "Find out more on the AT2030 website",
+        "url": "https://at2030.org/inclusive-cities/"
+      },
+      {
+        "label": "A Comparison Report",
+        "url": "https://cdn.disabilityinnovation.com/uploads/documents/GDI_Hub_-_A_global_comparison_report_on_Inclusive_Infrastruct_zaYpq3a_compressed.pdf?v=1747297696"
+      },
+      {
+        "label": "The Global Action Report",
+        "url": "https://at2030.org/static/at2030_core/outputs/GDI_Hub_-_A_global_action_report_on_Delivering_Inclusive_Desi_vV9Id7s.pdf"
+      },
+      {
+        "label": "Ulaanbaatar, Mongolia",
+        "url": "https://at2030.org/summary-of-inclusive-design-and-accessibility-of-the-built-environment-in-ulaanbaatar-mongolia/"
+      },
+      {
+        "label": "Varanasi, India",
+        "url": "https://at2030.org/inclusive-design-and-accessibility-of-the-built-environment-in-varanasi-india/"
+      },
+      {
+        "label": "Surakarta, Indonesia",
+        "url": "https://at2030.org/inclusive-design-and-accessibility-of-the-built-environment-in-solo,-indonesia/"
+      },
+      {
+        "label": "Nairobi, Kenya​",
+        "url": "https://at2030.org/case-study-nairobi/"
+      },
+      {
+        "label": "Freetown, Sierra Leone",
+        "url": "https://at2030.org/sierra-leone-case-study/"
+      },
+      {
+        "label": "Medellin, Colombia",
+        "url": "https://at2030.org/medellin/"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "This AT2030 work examines how inclusive planning and design can remove environmental barriers to using assistive technology and participating in everyday life.",
+    "children": [],
+    "parent": "at2030",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "at2030/local-systems-strengthening",
+    "title": "Local Systems Strengthening",
+    "source": "https://www.disabilityinnovation.com/projects/at2030/local-systems-strengthening",
+    "details": {
+      "Status": "Live",
+      "Project type": "Research; Innovation",
+      "Country": "India; Kenya; Nepal; Sierra Leone",
+      "Work type": "Integrate"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/188735/inclusive-cities-3.webp?v=1788441757",
+      "alt": "Two people are sitting on a bench next to each other. One is trying on a prosthetic leg while someone sits in front of him and supports him. The participants' faces are blurred."
+    },
+    "resources": [
+      {
+        "label": "Discover more about this project on the AT2030 Website",
+        "url": "https://at2030.org/case-study-local-production/"
+      },
+      {
+        "label": "Locally Produced Prosthetics in Nepal",
+        "url": "https://at2030.org/prosthetics-nepal/"
+      },
+      {
+        "label": "Enabling Access Locally",
+        "url": "https://at2030.org/a-systems-approach-to-wheelchair-provisioning-in-low-resource-contexts-nepal/"
+      },
+      {
+        "label": "Community-led solutions",
+        "url": "https://at2030.org/at2030-community-led-solutions-assistive-technologies-in-informal-settlements-in-sierra-leone-and-indonesia/"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "Work to improve local assistive-technology systems by connecting users, providers and manufacturers, with attention to production, repair and continued support.",
+    "children": [],
+    "parent": "at2030",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "at2030/mobile-as-at",
+    "title": "Mobile as AT",
+    "source": "https://www.disabilityinnovation.com/projects/at2030/mobile-as-at",
+    "details": {
+      "Status": "Live",
+      "Country": "Asia; Africa",
+      "Work type": "Inquire"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/188956/Project-images-4.webp?v=1788421244",
+      "alt": "Two people are looking at a mobile phone"
+    },
+    "resources": [
+      {
+        "label": "ATscale",
+        "url": "https://atscalepartnership.org/"
+      },
+      {
+        "label": "Google",
+        "url": "https://belonging.google/in-products/disability-innovation"
+      },
+      {
+        "label": "ATscale",
+        "url": "https://atscalepartnership.org"
+      },
+      {
+        "label": "Mobile as AT Kenya",
+        "url": "https://at2030.org/mobile-as-at-kenya/"
+      },
+      {
+        "label": "Enhancing Communication Equity: Evaluation of an Automated Speech Recognition Application in Ghana",
+        "url": "https://www.at2030.org/evaluation-of-an-automated-speech-recognition-application-in-ghana/"
+      },
+      {
+        "label": "The Social Network: How People with Visual Impairment use Mobile Phones in Kibera, Kenya",
+        "url": "https://at2030.org/the-social-network:-how-people-with-visual-impairment-use-mobile-phones-in-kibera,-kenya/"
+      },
+      {
+        "label": "Bridging the Divide: Exploring the use of digital and physical technology to aid mobility impaired people living in an informal settlement",
+        "url": "https://at2030.org/bridging-the-divide/"
+      },
+      {
+        "label": "Inclusion and Independence: The impact of Mobile Technology on the Lives of Persons with Disabilities in Kenya and Bangladesh",
+        "url": "https://at2030.org/inclusion-and-independence/"
+      },
+      {
+        "label": "Book: case Study Disability Interactions within the AT2030 program in Kenya",
+        "url": "https://at2030.org/case-study-dix-within-at2030/"
+      },
+      {
+        "label": "Understanding the mobile disability gap",
+        "url": "https://at2030.org/understanding-the-mobile-disability-gap/"
+      },
+      {
+        "label": "Leveraging the Potential of Mobile for Persons with Disabilities",
+        "url": "https://at2030.org/leveraging-the-potential-of-mobile-for-persons-with-disabilities/"
+      },
+      {
+        "label": "Mobile technologies as assistive technologies in humanitarian and development contexts",
+        "url": "https://at2030.org/mobile-technologies-as-assistive-technologies-in-humanitarian-and-development-contexts/"
+      },
+      {
+        "label": "Mobile phones as assistive technologies: Gaps and opportunities",
+        "url": "https://at2030.org/mobile-phones-as-assistive-technologies/"
+      },
+      {
+        "label": "Assistive technology in your pocket: the transformative potential of smartphones",
+        "url": "https://at2030.org/assistive-technology-in-your-pocket/"
+      },
+      {
+        "label": "Digital Assistive Technology Challenges and Opportunities: The Potential of Mobile Devices (COSP16 side event recording)",
+        "url": "https://at2030.org/the-potential-of-mobile-devices-cosp16/"
+      },
+      {
+        "label": "Mobile Disability Gap webinar access and impact of mobile technology",
+        "url": "https://at2030.org/mobile-disability-gap-webinar/"
+      },
+      {
+        "label": "Google project to assist sight and hearing in India, Brazil, and Kenya",
+        "url": "https://at2030.org/mobile-phones-as-at-project/"
+      },
+      {
+        "label": "Video: How does mobile empower me? Joseph’s story",
+        "url": "https://at2030.org/how-does-mobile-empower-me-josephs-story/"
+      },
+      {
+        "label": "Techshare Pro 2019: The Future of Accessibility and Inclusive Design",
+        "url": "https://at2030.org/techshare-pro-2019-the-future-of-accessibility-and-inclusive-design/"
+      },
+      {
+        "label": "Exploring the experience of persons with disabilities of using mobile technology in their daily lives in Kenya and Bangladesh",
+        "url": "https://at2030.org/using-mobile-technology-in-daily-lives-in-kenya-and-bangladesh/"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "Research and partnerships exploring smartphones as assistive technology for communication, learning and independent living, including work in Kenya, India and Brazil.",
+    "children": [],
+    "parent": "at2030",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "at2030/opd-capacity-building",
+    "title": "OPD Capacity Building",
+    "source": "https://www.disabilityinnovation.com/projects/at2030/opd-capacity-building",
+    "details": {
+      "Status": "Live",
+      "Country": "Asia; Africa",
+      "Work type": "Include"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/189045/Project-images-5.webp?v=1788427059",
+      "alt": "Two people talking at our OPD event in Kenya"
+    },
+    "resources": [
+      {
+        "label": "AT2030 programme",
+        "url": "https://at2030.org/"
+      },
+      {
+        "label": "Kilimanjaro Blind Trust Africa (KBTA)",
+        "url": "https://www.kilimanjaroblindtrust.org"
+      },
+      {
+        "label": "Special Talent Exchange Program (STEP)",
+        "url": "https://www.step.org.pk"
+      },
+      {
+        "label": "OPD Capacity Building for a Disability Inclusive Future Kenya Project Report",
+        "url": "https://www.at2030.org/opd-capacity-building-for-a-disability-inclusive-future-kenya-project-report/"
+      },
+      {
+        "label": "Empowering OPDs to Lead Change",
+        "url": "https://at2030.org/empowering-opds-to-lead-change/"
+      },
+      {
+        "label": "Assistive Technology User Fellowship:",
+        "url": "https://at2030.org/assistive-technology-user-fellowship/"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A joint initiative with Kilimanjaro Blind Trust Africa supports Kenyan organisations of persons with disabilities through training in advocacy, organisational development, leadership and digital skills.",
+    "children": [],
+    "parent": "at2030",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "at2030/para-sport-against-stigma",
+    "title": "Para Sport Against Stigma",
+    "source": "https://www.disabilityinnovation.com/projects/at2030/para-sport-against-stigma",
+    "details": {
+      "Status": "Live",
+      "Country": "Africa",
+      "Work type": "Include"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/188925/Project-images-3.webp?v=1788437132",
+      "alt": "Two people running on a running track. One is a sighted support runner"
+    },
+    "resources": [
+      {
+        "label": "Youth Attitudes Towards Disability Sport & Assistive Technology",
+        "url": "https://at2030.org/youth-attitudes-towards-disability-sport/"
+      },
+      {
+        "label": "Disability, innovation and the power of Paralympic legacy",
+        "url": "https://at2030.org/beyond-sport-paris-reception/"
+      },
+      {
+        "label": "Uniting Nations:",
+        "url": "https://at2030.org/breaking-stigma-through-para-sports-and-assistive-technology-in-malawi/"
+      },
+      {
+        "label": "Evidence brief on engaging communities in Para sport in Malawi",
+        "url": "https://at2030.org/evidence-malawi/"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "This project combines Para athlete development, broadcasting and locally led storytelling to challenge disability stigma and support inclusion and assistive-technology access.",
+    "children": [],
+    "parent": "at2030",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "changing-prosthetic-service-delivery-with-amparo",
+    "title": "Changing Prosthetic Service Delivery with Amparo",
+    "source": "https://www.disabilityinnovation.com/projects/changing-prosthetic-service-delivery-with-amparo",
+    "details": {
+      "Status": "Concluded",
+      "Project type": "Innovation; Programmes",
+      "Country": "Kenya",
+      "Work type": "Incubate"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/190616/AmparoProstheticsKenya.webp?v=1788425254",
+      "alt": "A group of four people, two men and two women, are gathered around a table. A man in a green t-shirt is sitting on the left, gesturing with his hands as he speaks to the others. In the center, a man in a white shirt and a woman with dark hair are leaning over the table, looking at an object. On the right, a woman in a red and yellow dress and a yellow headscarf is holding a white, curved object in her hands. She is seated, while the others are standing or crouching. The setting appears to be a workshop or studio, with various objects and tools visible on shelves and tables in the background."
+    },
+    "resources": [
+      {
+        "label": "Amparo GmbH",
+        "url": "https://www.amparo.world/home-en/"
+      },
+      {
+        "label": "AT2030",
+        "url": "https://at2030.org/"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "An AT2030 collaboration with Amparo evaluated its Confidence Socket in Kenya to understand its potential contribution to lower-limb prosthetic services.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "crowdbot",
+    "title": "CROWDBOT: A crowd-aware shared-control wheelchair navigation system",
+    "source": "https://www.disabilityinnovation.com/projects/crowdbot",
+    "details": {
+      "Status": "Concluded",
+      "Project type": "Research",
+      "Country": "United Kingdom",
+      "Work type": "Include"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/531/CROWDBOT.webp?v=1788421860",
+      "alt": "Man using a latop to operate a wheelchair"
+    },
+    "resources": [
+      {
+        "label": "INRIA",
+        "url": "https://www.inria.fr/en/"
+      },
+      {
+        "label": "EPFL",
+        "url": "https://www.epfl.ch/en/home/"
+      },
+      {
+        "label": "ETHZ",
+        "url": "https://www.ethz.ch/en.html"
+      },
+      {
+        "label": "UCL",
+        "url": "https://www.ucl.ac.uk/"
+      },
+      {
+        "label": "Tom Carlson",
+        "url": "https://iris.ucl.ac.uk/iris/browse/profile?upi=TCARL67"
+      },
+      {
+        "label": "Cathy Holloway",
+        "url": "https://www.disabilityinnovation.com/who-we-are/our-team/dr-catherine-holloway"
+      },
+      {
+        "label": "Bingqing (Pat) Zhang",
+        "url": "https://www.disabilityinnovation.com/who-we-are/our-team/bingqing-pat-zhang"
+      },
+      {
+        "label": "https://drive.google.com/file/d/1-xYeRGTvwB1repF1otKoIeuv8k0drfx6/view?usp=sharing",
+        "url": "https://drive.google.com/file/d/1-xYeRGTvwB1repF1otKoIeuv8k0drfx6/view?usp=sharing"
+      },
+      {
+        "label": "Click here to view the list of publications",
+        "url": "https://www.researchgate.net/profile/Bingqing-Zhang-5/research"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "CROWDBOT investigated robot navigation in crowded environments, including wheelchairs that assist with manoeuvring while preserving the user’s control. GDI contributed to co-design and evaluation.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "digital-technology-to-revolutionise-wheelchair-provision-with-motivation",
+    "title": "Digital Technology, to Revolutionise Wheelchair Provision with Motivation",
+    "source": "https://www.disabilityinnovation.com/projects/digital-technology-to-revolutionise-wheelchair-provision-with-motivation",
+    "details": {
+      "Status": "Concluded",
+      "Project type": "Innovation; Programmes",
+      "Country": "Kenya",
+      "Work type": "Incubate"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/97233/Twitter-posts-JUNE-10.webp?v=1788441760",
+      "alt": "Image of a young man in a red t-shirt sitting in his wheelchair inside a community space"
+    },
+    "resources": [
+      {
+        "label": "Motivation",
+        "url": "https://motivation.org.uk"
+      },
+      {
+        "label": "Google.org",
+        "url": "https://www.google.org"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "GDI worked with Motivation in Kenya to evaluate wheelchair designs and investigate how distributed production and 3D printing could contribute to wheelchair services.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "disabled-leaders-network",
+    "title": "Disabled Leaders Network",
+    "source": "https://www.disabilityinnovation.com/projects/disabled-leaders-network",
+    "details": {
+      "Status": "Live",
+      "Project type": "Programmes; Advocacy",
+      "Work type": "Include"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/189412/DLN-hero.webp?v=1788427944",
+      "alt": "DLN members during a zoom call"
+    },
+    "resources": [
+      {
+        "label": "Explore more on the Disabled Leaders Network website",
+        "url": "https://disabledleadersnetwork.com/"
+      },
+      {
+        "label": "The Snowdon Trust",
+        "url": "https://www.snowdontrust.org/disabled-leaders-network/"
+      },
+      {
+        "label": "free public digital events",
+        "url": "https://disabledleadersnetwork.com/explore-our-upcoming-public-events/"
+      },
+      {
+        "label": "We regularly open applications to join the DLN.",
+        "url": "https://disabledleadersnetwork.com/join-us/"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A network connecting disabled leaders to exchange experience, learn from one another and build relationships.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "fit-for-purpose-affordable-body-powered-prostheses",
+    "title": "Fit-for-purpose, affordable body-powered prostheses",
+    "source": "https://www.disabilityinnovation.com/projects/fit-for-purpose-affordable-body-powered-prostheses",
+    "details": {
+      "Status": "Concluded",
+      "Project type": "Research",
+      "Dates": "February 2018  — January 2022",
+      "Country": "Jordan; Uganda; United Kingdom",
+      "Work type": "Include"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/355/2dc61dde-2fd0-4a76-b0ab-9a8d199fdb9b.webp?v=1788427057%2C0.4345%2C0.4927",
+      "alt": "Upper limb body powered prosthesis consisting of a hand and an arm that has two sections joined by a mechanical elbow. The arm section is made of a dark brow plastic material while the hand is covered by a sleeve that has a much lighter color, this contrast of colors is one of the reasons prosthetics users reject their prostheses."
+    },
+    "resources": [
+      {
+        "label": "Trent International Prosthetics Symposium (TIPS) 2019",
+        "url": "https://www.trent-prosthetics.com/"
+      },
+      {
+        "label": "SCOPE",
+        "url": "https://www.ipem.ac.uk/ScientificJournalsPublications/SCOPE.aspx"
+      },
+      {
+        "label": "overview of the findings of this project here.",
+        "url": "https://dl.acm.org/doi/abs/10.1145/3373625.3417301?casa_token=KPAtV9Akv7YAAAAA:TeHADZh9oJTmd2NIBJvlHTeEWj4VkoIw101BOXBk1OAVxI478KBU97BNaisvyZsISMOrnpSgJCg"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "Research into affordable upper-limb prostheses whose design responds to users’ activities and the environments in which they live.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "great-summit-summary",
+    "title": "GReAT Summit Summary",
+    "source": "https://www.disabilityinnovation.com/projects/great-summit-summary",
+    "details": {},
+    "image": null,
+    "resources": [
+      {
+        "label": "consultation for the Global Report on Assistive Technology (GReAT)",
+        "url": "https://www.who.int/phi/implementation/assistive_technology/great_consultation2019/en/"
+      },
+      {
+        "label": "AT2030 programme",
+        "url": "https://at2030.org/"
+      },
+      {
+        "label": "AT Innovation Ecosystem Design – A Kenyan Case Study:",
+        "url": "https://at2030.org/assistive-technology-innovation-ecosystem-design:-a-kenyan-case-study/"
+      },
+      {
+        "label": "Innovate Now Ecosystem in Nairobi.",
+        "url": "https://atinnovatenow.com/"
+      },
+      {
+        "label": "Overcoming systematic global barriers to AT: a new methodology and quick-start testing through a £20m programme:",
+        "url": "https://at2030.org/overcoming-systematic-global-barriers-to-assistive-technology:-a-new-methodology-and-quick-start-testing-through-a-20m-programme/"
+      },
+      {
+        "label": "scoping report on the barriers to AT access",
+        "url": "https://www.disabilityinnovation.com/uploads/images/AT-Scoping-Report_2019-compressed-19.pdf"
+      },
+      {
+        "label": "Mobile Phones as Assistive Technologies: Gaps and Opportunities:",
+        "url": "https://at2030.org/mobile-phones-as-assistive-technologies:-gaps-and-opportunities/"
+      },
+      {
+        "label": "ATscale – Establishing a Cross-Sector Partnership to Increase Access to Assistive Technology:",
+        "url": "https://at2030.org/atscale:-establishing-a-cross-sector-partnership-to-increase-access-to-assistive-technology/"
+      },
+      {
+        "label": "Applying Market Shaping Approaches to Increase Access to Assistive Technology: Summary of the Wheelchair Product Narrative:",
+        "url": "https://at2030.org/applying-market-shaping-approaches-to-increase-access-to-assistive-technology:-summary-of-the-wheelchair-product-narrative/"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "An account of GDI’s participation in the WHO consultation held in Geneva in August 2019 to inform the Global Report on Assistive Technology.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "improving-data-and-evidence-to-support-the-provision-of-assistive-technology",
+    "title": "Improving data and evidence to support the provision of assistive technology",
+    "source": "https://www.disabilityinnovation.com/projects/improving-data-and-evidence-to-support-the-provision-of-assistive-technology",
+    "details": {
+      "Status": "Live",
+      "Project type": "Research",
+      "Country": "Global",
+      "Work type": "Inquire"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/190300/54673131602_2a19306faa_k_2025-07-24-134025_fzdc.webp?v=1788441760",
+      "alt": ""
+    },
+    "resources": [
+      {
+        "label": "AT2030 programme",
+        "url": "https://www.disabilityinnovation.com/projects/at2030.org"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "Collaborative work on the evidence and data systems needed to guide assistive-technology policy, funding and provision.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "improving-prosthetic-liners",
+    "title": "Improving prosthetic liners using wearable sensors, 3D printing and deep learning",
+    "source": "https://www.disabilityinnovation.com/projects/improving-prosthetic-liners",
+    "details": {
+      "Status": "Live",
+      "Project type": "Research",
+      "Country": "Global",
+      "Work type": "Inquire"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/189986/Amparo-prosthestics_2025-07-03-094455_dxat.webp?v=1788429855",
+      "alt": ""
+    },
+    "resources": [
+      {
+        "label": "A Deep Learning Approach to Non-linearity in Wearable Stretch Sensors",
+        "url": "https://www.researchgate.net/publication/332795335_A_Deep_Learning_Approach_to_Non-linearity_in_Wearable_Stretch_Sensors"
+      },
+      {
+        "label": "Additive manufacturing techniques for smart prosthetic liners",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S1350453320301703?via%3Dihub"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "Research using sensing materials and digital fabrication to develop better-fitting prosthetic liners, including approaches that can respond to changes in limb shape or growth.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "inclusive-arts-and-crafts-design-empowering-people-with-disability-to-contribute-to-their-community-in-southern-africa",
+    "title": "Inclusive arts and crafts design: empowering people with disability to contribute to their community in Southern Africa",
+    "source": "https://www.disabilityinnovation.com/projects/inclusive-arts-and-crafts-design-empowering-people-with-disability-to-contribute-to-their-community-in-southern-africa",
+    "details": {
+      "Status": "Concluded",
+      "Project type": "Research",
+      "Country": "Malawi; South Africa; United Kingdom; Botswana",
+      "Work type": "Include"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/59667/Picture-1.webp?v=1788436340",
+      "alt": "Sarah Anton and Shadrek Ndlovu smiling and weaving on a loom"
+    },
+    "resources": [
+      {
+        "label": "The Southern Africa Assistive Technology Expo",
+        "url": "https://saate.org"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A Southern African research network explored inclusive craft and design as ways to recognise cultural heritage and support disabled people’s community participation and livelihoods.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "inclusive-climate-infrastructure-design-playbook",
+    "title": "Inclusive Climate Infrastructure Design Playbook",
+    "source": "https://www.disabilityinnovation.com/projects/inclusive-climate-infrastructure-design-playbook",
+    "details": {},
+    "image": null,
+    "resources": [],
+    "checked": "2026-11-02",
+    "summary": "Guidance for developing infrastructure that addresses both disability inclusion and climate resilience. Research with practitioners and disabled people informs recommendations for housing, transport and public space.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "inclusive-research",
+    "title": "Inclusive Research Video Guidance for Early Career Researchers and Innovators",
+    "source": "https://www.disabilityinnovation.com/projects/inclusive-research",
+    "details": {
+      "Status": "Concluded",
+      "Work type": "Impart"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/181332/Inclusive-Research-Guidance-for-Early-Career-Researchers.webp?v=1788421611",
+      "alt": "Tigi seating on coach with with text reading: Inclusive Research Guidance for Early Career Researchers"
+    },
+    "resources": [
+      {
+        "label": "Transcript (PDF Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Abdi-Omar-Branded-PDF-Trans.pdf?v=1737121353"
+      },
+      {
+        "label": "Transcript (Plain text version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/documents/Abdi-Omar-plain-text-transcript.rtf?v=1737121055"
+      },
+      {
+        "label": "Full youtube playlist",
+        "url": "https://www.youtube.com/playlist?list=PLZi_mzfbwvfYEj6oIKLVuNWScF2iQN_PC"
+      },
+      {
+        "label": "Written version of guidance",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Tidal-output-1.pdf?v=1736180075"
+      },
+      {
+        "label": "Find out more about about our contributors",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/tidal-video-bios-5.pdf?v=1737390430"
+      },
+      {
+        "label": "Watch the source video",
+        "url": "https://www.youtube.com/embed/M4clUDECMVs"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A video collection for researchers and innovators on involving disabled people in research, drawing on researchers’ experience and perspectives from people with lived experience.",
+    "children": [
+      "inclusive-research/amanprit-arnold-deaf-city-strategist",
+      "inclusive-research/athena-reissis-phd-researcher-at-university-college-london",
+      "inclusive-research/ben-williams-health-and-social-care-professional-with-co-design-experience",
+      "inclusive-research/caroline-vermeulen-inclusive-graphic-designer",
+      "inclusive-research/daniel-hajas-innovation-manager-at-the-gdi-hub-and-ucl",
+      "inclusive-research/dilisha-patel-senior-researcher-at-ucl",
+      "inclusive-research/dr-ben-oldfrey-lecturer-assistant-professor-at-ucl",
+      "inclusive-research/eleanor-harvey-co-design-researcher-at-loughborough",
+      "inclusive-research/eliana-rosas-aguilar-disability-inclusion-academic",
+      "inclusive-research/kavya-mukhija-disability-inclusion-academic-and-advocate",
+      "inclusive-research/letty-raby-disabled-content-creator-consultant-and-academic",
+      "inclusive-research/princewill-ahante-researcher-and-disability-advocate",
+      "inclusive-research/richard-peacock-person-with-lived-experience-of-multiple-sclerosis",
+      "inclusive-research/selvie-hayward-deaf-disability-academic",
+      "inclusive-research/serenity-isaiah-disability-and-social-activist",
+      "inclusive-research/sophia-borovick-past-research-participant-and-wheelchair-user",
+      "inclusive-research/tigmanshu-bhatnagar-research-fellow-lecturer-at-ucl",
+      "inclusive-research/uzair-ibrahim-disabled-doctoral-scholar",
+      "inclusive-research/vicki-austin-co-founder-and-director-of-gdi-hubs-cic"
+    ],
+    "parent": null,
+    "record_type": "Programme or collection"
+  },
+  {
+    "slug": "inclusive-research/amanprit-arnold-deaf-city-strategist",
+    "title": "Amanprit Arnold Deaf City Strategist",
+    "source": "https://www.disabilityinnovation.com/projects/inclusive-research/amanprit-arnold-deaf-city-strategist",
+    "details": {
+      "Status": "Concluded"
+    },
+    "image": null,
+    "resources": [
+      {
+        "label": "Transcript (PDF Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Amanprit-Arnold-Branded-PDF-Trans.pdf?v=1737122025"
+      },
+      {
+        "label": "Transcript (Plain text Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/documents/Amanprit-Arnold-plain-text-trans.rtf?v=1737121063"
+      },
+      {
+        "label": "Watch the source video",
+        "url": "https://www.youtube.com/embed/e1raha_jXwo"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A contribution to GDI’s inclusive-research guidance series featuring Amanprit Arnold Deaf City Strategist. This is video 3 of the series.",
+    "children": [],
+    "parent": "inclusive-research",
+    "record_type": "Video resource"
+  },
+  {
+    "slug": "inclusive-research/athena-reissis-phd-researcher-at-university-college-london",
+    "title": "Athena Reissis PhD researcher at University College London",
+    "source": "https://www.disabilityinnovation.com/projects/inclusive-research/athena-reissis-phd-researcher-at-university-college-london",
+    "details": {
+      "Status": "Concluded"
+    },
+    "image": null,
+    "resources": [
+      {
+        "label": "Transcript (PDF Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Athena-Reissis-Branded-PDF-Trans.pdf?v=1737122548"
+      },
+      {
+        "label": "Transcript (Plain text Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/documents/Athena-Reissis-Plain-text-trans.rtf?v=1737121065"
+      },
+      {
+        "label": "Watch the source video",
+        "url": "https://www.youtube.com/embed/Udim4Qpork0"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A contribution to GDI’s inclusive-research guidance series featuring Athena Reissis PhD researcher at University College London. This is video 5 of the series.",
+    "children": [],
+    "parent": "inclusive-research",
+    "record_type": "Video resource"
+  },
+  {
+    "slug": "inclusive-research/ben-williams-health-and-social-care-professional-with-co-design-experience",
+    "title": "Ben Williams Health and Social Care Professional with co-design experience",
+    "source": "https://www.disabilityinnovation.com/projects/inclusive-research/ben-williams-health-and-social-care-professional-with-co-design-experience",
+    "details": {
+      "Status": "Concluded"
+    },
+    "image": null,
+    "resources": [
+      {
+        "label": "Transcript (PDF Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Ben-Williams-Branded-PDF-Trans.pdf?v=1737122617"
+      },
+      {
+        "label": "Transcript (Plain text Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/documents/Ben-Williams-Plain-text-trans.rtf?v=1737121066"
+      },
+      {
+        "label": "Watch the source video",
+        "url": "https://www.youtube.com/embed/WC9nBHK4y8A"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A contribution to GDI’s inclusive-research guidance series featuring Ben Williams Health and Social Care Professional with co-design experience. This is video 6 of the series.",
+    "children": [],
+    "parent": "inclusive-research",
+    "record_type": "Video resource"
+  },
+  {
+    "slug": "inclusive-research/caroline-vermeulen-inclusive-graphic-designer",
+    "title": "Caroline Vermeulen Inclusive Graphic Designer",
+    "source": "https://www.disabilityinnovation.com/projects/inclusive-research/caroline-vermeulen-inclusive-graphic-designer",
+    "details": {
+      "Status": "Concluded"
+    },
+    "image": null,
+    "resources": [
+      {
+        "label": "Transcript (PDF Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Caroline-Vermeulen-PDF-Branded-trans.pdf?v=1737123972"
+      },
+      {
+        "label": "Transcript (Plain text Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/documents/Caroline-Vermeulen-plaoin-text-trans.rtf?v=1737121067"
+      },
+      {
+        "label": "Watch the source video",
+        "url": "https://www.youtube.com/embed/xRtaop1uHK4"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A contribution to GDI’s inclusive-research guidance series featuring Caroline Vermeulen Inclusive Graphic Designer. This is video 13 of the series.",
+    "children": [],
+    "parent": "inclusive-research",
+    "record_type": "Video resource"
+  },
+  {
+    "slug": "inclusive-research/daniel-hajas-innovation-manager-at-the-gdi-hub-and-ucl",
+    "title": "Daniel Hajas Innovation Manager at The GDI Hub and UCL",
+    "source": "https://www.disabilityinnovation.com/projects/inclusive-research/daniel-hajas-innovation-manager-at-the-gdi-hub-and-ucl",
+    "details": {
+      "Status": "Concluded"
+    },
+    "image": null,
+    "resources": [
+      {
+        "label": "Transcript (PDF Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Daniel-Hajas-Branded-PDF-Trans.pdf?v=1737124096"
+      },
+      {
+        "label": "Transcript (Plain text version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/documents/Daniel-Haja-plain-text-trans.rtf?v=1737121067"
+      },
+      {
+        "label": "Watch the source video",
+        "url": "https://www.youtube.com/embed/wtd0npRvtiI"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A contribution to GDI’s inclusive-research guidance series featuring Daniel Hajas Innovation Manager at The GDI Hub and UCL. This is video 14 of the series.",
+    "children": [],
+    "parent": "inclusive-research",
+    "record_type": "Video resource"
+  },
+  {
+    "slug": "inclusive-research/dilisha-patel-senior-researcher-at-ucl",
+    "title": "Dilisha Patel Senior Researcher at UCL",
+    "source": "https://www.disabilityinnovation.com/projects/inclusive-research/dilisha-patel-senior-researcher-at-ucl",
+    "details": {
+      "Status": "Concluded"
+    },
+    "image": null,
+    "resources": [
+      {
+        "label": "Transcript (PDF Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Dilisha-Patel-Branded-PDF-Trans-1.pdf?v=1737124525"
+      },
+      {
+        "label": "Transcripts (Plain text Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/documents/Dilisha-Patel-plain-text-trans.rtf?v=1737121069"
+      },
+      {
+        "label": "Watch the source video",
+        "url": "https://www.youtube.com/embed/5drBDXX3yRw"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A contribution to GDI’s inclusive-research guidance series featuring Dilisha Patel Senior Researcher at UCL. This is video 18 of the series.",
+    "children": [],
+    "parent": "inclusive-research",
+    "record_type": "Video resource"
+  },
+  {
+    "slug": "inclusive-research/dr-ben-oldfrey-lecturer-assistant-professor-at-ucl",
+    "title": "Dr Ben Oldfrey Lecturer/Assistant Professor at UCL",
+    "source": "https://www.disabilityinnovation.com/projects/inclusive-research/dr-ben-oldfrey-lecturer-assistant-professor-at-ucl",
+    "details": {
+      "Status": "Concluded"
+    },
+    "image": null,
+    "resources": [
+      {
+        "label": "Transcript (PDF Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Dr-Ben-Oldfrey-Branded-PDF-Trans.pdf?v=1737124932"
+      },
+      {
+        "label": "Transcript (Plain text Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/documents/Ben-Oldfrey-plain-text-trans.rtf?v=1737121065"
+      },
+      {
+        "label": "Watch the source video",
+        "url": "https://www.youtube.com/embed/b2ObaYMI4iw"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A contribution to GDI’s inclusive-research guidance series featuring Dr Ben Oldfrey Lecturer/Assistant Professor at UCL. This is video 20 of the series.",
+    "children": [],
+    "parent": "inclusive-research",
+    "record_type": "Video resource"
+  },
+  {
+    "slug": "inclusive-research/eleanor-harvey-co-design-researcher-at-loughborough",
+    "title": "Eleanor Harvey co-design researcher at Loughborough",
+    "source": "https://www.disabilityinnovation.com/projects/inclusive-research/eleanor-harvey-co-design-researcher-at-loughborough",
+    "details": {
+      "Status": "Concluded"
+    },
+    "image": null,
+    "resources": [
+      {
+        "label": "Transcript (PDF Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Eleanor-Harvey-Branded-PDF-Trans.pdf?v=1737124296"
+      },
+      {
+        "label": "Transcript (Plain text version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/documents/Eleanor-Harvey-Plain-text-trans.rtf?v=1737121070"
+      },
+      {
+        "label": "Watch the source video",
+        "url": "https://www.youtube.com/embed/DIWU7yjV7a8"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A contribution to GDI’s inclusive-research guidance series featuring Eleanor Harvey co-design researcher at Loughborough. This is video 16 of the series.",
+    "children": [],
+    "parent": "inclusive-research",
+    "record_type": "Video resource"
+  },
+  {
+    "slug": "inclusive-research/eliana-rosas-aguilar-disability-inclusion-academic",
+    "title": "Eliana Rosas-Aguilar Disability Inclusion Academic",
+    "source": "https://www.disabilityinnovation.com/projects/inclusive-research/eliana-rosas-aguilar-disability-inclusion-academic",
+    "details": {
+      "Status": "Concluded"
+    },
+    "image": null,
+    "resources": [
+      {
+        "label": "Transcript (PDF Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Eliana-Rosas-Aguilar-Branded-PDF-Trans-1.pdf?v=1737124758"
+      },
+      {
+        "label": "Transcript (Plain text Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/documents/Eliana-Rosas-Aguilar-plain-text-trans.rtf?v=1737121070"
+      },
+      {
+        "label": "Watch the source video",
+        "url": "https://www.youtube.com/embed/s3DW4t2udOk"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A contribution to GDI’s inclusive-research guidance series featuring Eliana Rosas-Aguilar Disability Inclusion Academic. This is video 19 of the series.",
+    "children": [],
+    "parent": "inclusive-research",
+    "record_type": "Video resource"
+  },
+  {
+    "slug": "inclusive-research/kavya-mukhija-disability-inclusion-academic-and-advocate",
+    "title": "Kavya Mukhija Disability Inclusion Academic and Advocate",
+    "source": "https://www.disabilityinnovation.com/projects/inclusive-research/kavya-mukhija-disability-inclusion-academic-and-advocate",
+    "details": {
+      "Status": "Concluded"
+    },
+    "image": null,
+    "resources": [
+      {
+        "label": "Transcript (PDF Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Kavya-Mukhija-Branded-PDF-Trans.pdf?v=1737123411"
+      },
+      {
+        "label": "Transcript (Plain text Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/documents/Kavya-Mukhija-plain-text-trans.rtf?v=1737121071"
+      },
+      {
+        "label": "Watch the source video",
+        "url": "https://www.youtube.com/embed/vgyz7wO4OEY"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A contribution to GDI’s inclusive-research guidance series featuring Kavya Mukhija Disability Inclusion Academic and Advocate. This is video 11 of the series.",
+    "children": [],
+    "parent": "inclusive-research",
+    "record_type": "Video resource"
+  },
+  {
+    "slug": "inclusive-research/letty-raby-disabled-content-creator-consultant-and-academic",
+    "title": "Letty Raby Disabled Content Creator, Consultant and Academic",
+    "source": "https://www.disabilityinnovation.com/projects/inclusive-research/letty-raby-disabled-content-creator-consultant-and-academic",
+    "details": {
+      "Status": "Concluded"
+    },
+    "image": null,
+    "resources": [
+      {
+        "label": "Transcript (PDF Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Letty-Raby-Branded-PDF-Trans.pdf?v=1737122133"
+      },
+      {
+        "label": "Transcript (plain text Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/documents/Letty-Raby-Plain-text-transcript.rtf?v=1737121072"
+      },
+      {
+        "label": "Watch the source video",
+        "url": "https://www.youtube.com/embed/oMXxgJL3aZw"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A contribution to GDI’s inclusive-research guidance series featuring Letty Raby Disabled Content Creator, Consultant and Academic. This is video 4 of the series.",
+    "children": [],
+    "parent": "inclusive-research",
+    "record_type": "Video resource"
+  },
+  {
+    "slug": "inclusive-research/princewill-ahante-researcher-and-disability-advocate",
+    "title": "Princewill Ahante Researcher and Disability Advocate",
+    "source": "https://www.disabilityinnovation.com/projects/inclusive-research/princewill-ahante-researcher-and-disability-advocate",
+    "details": {
+      "Status": "Concluded"
+    },
+    "image": null,
+    "resources": [
+      {
+        "label": "Transcript (PDF Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Princewill-Ahante-Branded-PDF-Trans.pdf?v=1737123304"
+      },
+      {
+        "label": "Transcript (Plain text Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/documents/Princewell-Ahante-plain-text-trans.rtf?v=1737121073"
+      },
+      {
+        "label": "Watch the source video",
+        "url": "https://www.youtube.com/embed/qdcygTvrGNE"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A contribution to GDI’s inclusive-research guidance series featuring Princewill Ahante Researcher and Disability Advocate. This is video 10 of the series.",
+    "children": [],
+    "parent": "inclusive-research",
+    "record_type": "Video resource"
+  },
+  {
+    "slug": "inclusive-research/richard-peacock-person-with-lived-experience-of-multiple-sclerosis",
+    "title": "Richard Peacock Person with lived experience of Multiple Sclerosis",
+    "source": "https://www.disabilityinnovation.com/projects/inclusive-research/richard-peacock-person-with-lived-experience-of-multiple-sclerosis",
+    "details": {
+      "Status": "Concluded"
+    },
+    "image": null,
+    "resources": [
+      {
+        "label": "Transcript (PDF Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Richard-Peacock-Branded-PDF-Trans.pdf?v=1737122730"
+      },
+      {
+        "label": "Transcript (Plain Text Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/documents/Richard-Peacock-plain-text-trans.rtf?v=1737121073"
+      },
+      {
+        "label": "Watch the source video",
+        "url": "https://www.youtube.com/embed/19aAFM_liKA"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A contribution to GDI’s inclusive-research guidance series featuring Richard Peacock Person with lived experience of Multiple Sclerosis. This is video 7 of the series.",
+    "children": [],
+    "parent": "inclusive-research",
+    "record_type": "Video resource"
+  },
+  {
+    "slug": "inclusive-research/selvie-hayward-deaf-disability-academic",
+    "title": "Selvie Hayward Deaf Disability Academic",
+    "source": "https://www.disabilityinnovation.com/projects/inclusive-research/selvie-hayward-deaf-disability-academic",
+    "details": {
+      "Status": "Concluded"
+    },
+    "image": null,
+    "resources": [
+      {
+        "label": "Transcript (PDF Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Selvie-Hayward-Branded-PDF-Trans.pdf?v=1737123061"
+      },
+      {
+        "label": "Transcript (Plain text Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/documents/Selvie-Hayward-plain-text-transcript-1.rtf?v=1737121074"
+      },
+      {
+        "label": "Watch the source video",
+        "url": "https://www.youtube.com/embed/Hlup_FjyXIc"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A contribution to GDI’s inclusive-research guidance series featuring Selvie Hayward Deaf Disability Academic. This is video 9 of the series.",
+    "children": [],
+    "parent": "inclusive-research",
+    "record_type": "Video resource"
+  },
+  {
+    "slug": "inclusive-research/serenity-isaiah-disability-and-social-activist",
+    "title": "Serenity Isaiah: Disability and Social Activist",
+    "source": "https://www.disabilityinnovation.com/projects/inclusive-research/serenity-isaiah-disability-and-social-activist",
+    "details": {
+      "Status": "Concluded"
+    },
+    "image": null,
+    "resources": [
+      {
+        "label": "Transcript (PDF Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Serenity-Isaiah-Branded-PDF-Trans.pdf?v=1737121670"
+      },
+      {
+        "label": "Transcript (Plain Text Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/documents/Serenity-Isaiah-plain-text-trans-1.rtf?v=1737121075"
+      },
+      {
+        "label": "Watch the source video",
+        "url": "https://www.youtube.com/embed/r9srNp6zo-k"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A contribution to GDI’s inclusive-research guidance series featuring Serenity Isaiah: Disability and Social Activist. This is video 2 of the series.",
+    "children": [],
+    "parent": "inclusive-research",
+    "record_type": "Video resource"
+  },
+  {
+    "slug": "inclusive-research/sophia-borovick-past-research-participant-and-wheelchair-user",
+    "title": "Sophia Borovick Past research participant and wheelchair user",
+    "source": "https://www.disabilityinnovation.com/projects/inclusive-research/sophia-borovick-past-research-participant-and-wheelchair-user",
+    "details": {
+      "Status": "Concluded"
+    },
+    "image": null,
+    "resources": [
+      {
+        "label": "Transcript (PDF Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Sophia-Borovick-Branded-PDF-Trans_2025-01-20-162513_sgmm.pdf?v=1737390313"
+      },
+      {
+        "label": "Transcript (Plain text Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Sophia-Borovick-plain-text-trans.rtf?v=1737390290"
+      },
+      {
+        "label": "Watch the source video",
+        "url": "https://www.youtube.com/embed/I67V95Oa3tI"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A contribution to GDI’s inclusive-research guidance series featuring Sophia Borovick Past research participant and wheelchair user. This is video 12 of the series.",
+    "children": [],
+    "parent": "inclusive-research",
+    "record_type": "Video resource"
+  },
+  {
+    "slug": "inclusive-research/tigmanshu-bhatnagar-research-fellow-lecturer-at-ucl",
+    "title": "Tigmanshu Bhatnagar Research Fellow / Lecturer at UCL",
+    "source": "https://www.disabilityinnovation.com/projects/inclusive-research/tigmanshu-bhatnagar-research-fellow-lecturer-at-ucl",
+    "details": {
+      "Status": "Concluded"
+    },
+    "image": null,
+    "resources": [
+      {
+        "label": "Transcript (PDF Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Tigmanshu-Bhatnagar-Branded-PDF-Trans.pdf?v=1737124388"
+      },
+      {
+        "label": "Transcript (Plain text Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/documents/Tigmanshu-Bhatnagar-plain-text-trans.rtf?v=1737121076"
+      },
+      {
+        "label": "Watch the source video",
+        "url": "https://www.youtube.com/embed/UaipuT4oFE8"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A contribution to GDI’s inclusive-research guidance series featuring Tigmanshu Bhatnagar Research Fellow / Lecturer at UCL. This is video 17 of the series.",
+    "children": [],
+    "parent": "inclusive-research",
+    "record_type": "Video resource"
+  },
+  {
+    "slug": "inclusive-research/uzair-ibrahim-disabled-doctoral-scholar",
+    "title": "Uzair Ibrahim Disabled Doctoral Scholar",
+    "source": "https://www.disabilityinnovation.com/projects/inclusive-research/uzair-ibrahim-disabled-doctoral-scholar",
+    "details": {
+      "Status": "Concluded"
+    },
+    "image": null,
+    "resources": [
+      {
+        "label": "Transcript (PDF Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Uzair-Ibrahim-Branded-PDF-Trans.pdf?v=1737122964"
+      },
+      {
+        "label": "Transcript (Plain text version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/documents/Uzair-Ibrahim-plain-text-trans.rtf?v=1737121077"
+      },
+      {
+        "label": "Watch the source video",
+        "url": "https://www.youtube.com/embed/tMg5832rO90"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A contribution to GDI’s inclusive-research guidance series featuring Uzair Ibrahim Disabled Doctoral Scholar. This is video 8 of the series.",
+    "children": [],
+    "parent": "inclusive-research",
+    "record_type": "Video resource"
+  },
+  {
+    "slug": "inclusive-research/vicki-austin-co-founder-and-director-of-gdi-hubs-cic",
+    "title": "Vicki Austin Co-founder and Director of GDI Hub’s CIC",
+    "source": "https://www.disabilityinnovation.com/projects/inclusive-research/vicki-austin-co-founder-and-director-of-gdi-hubs-cic",
+    "details": {
+      "Status": "Concluded"
+    },
+    "image": null,
+    "resources": [
+      {
+        "label": "Transcript (PDF Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Vicki-Austin-Branded-PDF-Trans.pdf?v=1737124220"
+      },
+      {
+        "label": "Transcript (Plain text Version)",
+        "url": "https://cdn.disabilityinnovation.com/uploads/documents/Vicki-Austin-plain-text-trans.rtf?v=1737121077"
+      },
+      {
+        "label": "Watch the source video",
+        "url": "https://www.youtube.com/embed/CK3tCFIiktA"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A contribution to GDI’s inclusive-research guidance series featuring Vicki Austin Co-founder and Director of GDI Hub’s CIC. This is video 15 of the series.",
+    "children": [],
+    "parent": "inclusive-research",
+    "record_type": "Video resource"
+  },
+  {
+    "slug": "innovation-action",
+    "title": "Innovation Action: a collaborative initiative to map global AT resources",
+    "source": "https://www.disabilityinnovation.com/projects/innovation-action",
+    "details": {
+      "Status": "Concluded",
+      "Project type": "Innovation",
+      "Country": "Kenya",
+      "Work type": "Inquire"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/57647/InnovationAction-Kenya-Ecosysstem.webp?v=1788431423",
+      "alt": ""
+    },
+    "resources": [
+      {
+        "label": "GDI Hub",
+        "url": "https://www.disabilityinnovation.com/"
+      },
+      {
+        "label": "UCL Engineering",
+        "url": "https://www.ucl.ac.uk/engineering/"
+      },
+      {
+        "label": "UK Aid",
+        "url": "https://www.ukaiddirect.org/"
+      },
+      {
+        "label": "Frontier Technologies Hub",
+        "url": "https://medium.com/frontier-technologies-hub"
+      },
+      {
+        "label": "AT2030",
+        "url": "https://at2030.org/"
+      },
+      {
+        "label": "UCL-Ventura CPAP in Africa",
+        "url": "https://www.innovationaction.org/cpap-in-africa/"
+      },
+      {
+        "label": "this dataset",
+        "url": "https://www.innovationaction.org/AT-ecosystem-kenya/"
+      },
+      {
+        "label": "University of Nairobi",
+        "url": "https://uonbi.ac.ke/"
+      },
+      {
+        "label": "Maynooth University",
+        "url": "https://www.maynoothuniversity.ie/all-institute"
+      },
+      {
+        "label": "Government of Kenya",
+        "url": "https://laboursp.go.ke/"
+      },
+      {
+        "label": "Local Production Solution Innovation",
+        "url": "https://www.innovationaction.org/lpls/"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A collaborative initiative connecting people, challenges and resources to support innovation, developed with UCL Engineering and support from UK Aid programmes.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "innovation-to-inclusion-i2i",
+    "title": "Innovation to Inclusion: i2i",
+    "source": "https://www.disabilityinnovation.com/projects/innovation-to-inclusion-i2i",
+    "details": {
+      "Status": "Concluded",
+      "Project type": "Programmes",
+      "Country": "Bangladesh; Kenya",
+      "Work type": "Invest"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/28182/dc6d915a-69d7-4f2a-b53b-5cbfb8b611f4.webp?v=1788429048",
+      "alt": "Group of wheelchair users and I2I project staff"
+    },
+    "resources": [
+      {
+        "label": "Barriers to Access and Retain Formal Employment for Persons with Disabilities in Bangladesh and Kenya",
+        "url": "https://cdn.disabilityinnovation.com/images/Barriers-to-Access-and-Retain-Formal-Employment-for-Persons-with-Disabilities-in-Bangladesh-and-Kenya.pdf?mtime=20210111103940&focal=none"
+      },
+      {
+        "label": "Innovating Pathways to Employment and Inclusion. Assistive technology scoping report.",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/AID-Connect-report-22.01.18-shared2.pdf?v=1604318016"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "The i2i programme explored digital approaches to disability inclusion, including skills development and employment support alongside practical barriers to participation.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "inpact",
+    "title": "Inclusive Public Activities for Information and Communication Technologies",
+    "source": "https://www.disabilityinnovation.com/projects/inpact",
+    "details": {
+      "Status": "Concluded",
+      "Project type": "Research; Advocacy",
+      "Dates": "December 2020",
+      "Country": "United Kingdom",
+      "Work type": "Impart"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/104796/Workshop_image.webp?v=1788443428",
+      "alt": "An illustration of two way collaboration between disabled people online"
+    },
+    "resources": [
+      {
+        "label": "Unlocking Inclusivity:",
+        "url": "https://www.disabilityinnovation.com/blog/unlocking-inclusivity-the-power-of-accessibility-in-ict"
+      },
+      {
+        "label": "Inclusive Public Activities for ICT",
+        "url": "https://www.disabilityinnovation.com/blog/inclusive-public-activities-for-ict-information-and-communication-technologies"
+      },
+      {
+        "label": "Disability-Inclusive ICT Research and Innovation",
+        "url": "https://www.disabilityinnovation.com/blog/disability-inclusive-ict-research-and-innovation-for-a-different-future"
+      },
+      {
+        "label": "Jumping through hoops",
+        "url": "https://www.disabilityinnovation.com/blog/jumping-through-hoops"
+      },
+      {
+        "label": "Advancing recognition of the positive impact of accessibility and digital inclusion on society",
+        "url": "https://www.disabilityinnovation.com/blog/advancing-recognition-of-the-positive-impact-of-accessibility-and-digital-inclusion-on-society"
+      },
+      {
+        "label": "European Accessibility Act",
+        "url": "https://www.disabilityinnovation.com/news/european-accessibility-act-"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "InPACT seeks to expand disabled people’s involvement in ICT research through inclusive research practices, digital skills and public engagement.",
+    "children": [
+      "inpact/inclusive-ict-research-panel"
+    ],
+    "parent": null,
+    "record_type": "Programme or collection"
+  },
+  {
+    "slug": "inpact/inclusive-ict-research-panel",
+    "title": "Inclusive ICT Research",
+    "source": "https://www.disabilityinnovation.com/projects/inpact/inclusive-ict-research-panel",
+    "details": {
+      "Status": "Live",
+      "Project type": "Research",
+      "Dates": "September 2023",
+      "Work type": "Impart"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/152880/inclusive-ICT-Research.webp?v=1788434292",
+      "alt": ""
+    },
+    "resources": [
+      {
+        "label": "face of the Guinness beer brand in Africa",
+        "url": "https://www.thedrum.com/news/2022/11/01/ad-the-day-guinness-captures-the-infectious-passion-african-football-fans?fbclid=IwAR312QZlB_BpFGOgrgs5HJuWHhPqNWHg_8roa4t9Rmaxj3EWYk8fZCXR4pY"
+      },
+      {
+        "label": "#TakeASEQondLook",
+        "url": "https://www.youtube.com/watch?app=desktop&v=Alt4r56lOLw"
+      },
+      {
+        "label": "Disability Sausage Media",
+        "url": "https://www.youtube.com/@disabilitysausage7468"
+      },
+      {
+        "label": "The Wheelchair Skills College",
+        "url": "https://www.wheelchairskills.org/"
+      },
+      {
+        "label": "The Unshakeable Will",
+        "url": "https://www.amazon.co.uk/Unshakeable-Will-Yahye-Siyad/dp/1922956066"
+      },
+      {
+        "label": "Dr Selvakumar Ramachandran, MBCS, FRSA – Kerckhoffs Ltd",
+        "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fkerckhoffs.ltd%2Fdr-selvakumar-ramachandran-mbcs-frsa%2F&data=05%7C01%7Cm.bandukda%40ucl.ac.uk%7C1310a338a4e04f55bc4708dbc9667068%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C638325214110150448%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=YRaa243tA8nN6DFYgv6IC%2Bg9e2XOtmPcBlbq0Mdbo1o%3D&reserved=0"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "An InPACT workstream using workshops with academics and professionals who have lived experience of disability to inform more inclusive ICT research.",
+    "children": [],
+    "parent": "inpact",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "local-production-and-repair-in-sierra-leone",
+    "title": "Local Systems Strengthening: Sierra Leone",
+    "source": "https://www.disabilityinnovation.com/projects/local-production-and-repair-in-sierra-leone",
+    "details": {
+      "Status": "Live",
+      "Project type": "Research; Innovation",
+      "Country": "Sierra Leone",
+      "Work type": "Inquire"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/188717/inclusive-cities-2.webp?v=1788433526",
+      "alt": "Sierra Leone Flag flying in wind"
+    },
+    "resources": [],
+    "checked": "2026-11-02",
+    "summary": "Work with Sierra Leone’s assistive-technology and rehabilitation organisations to understand and strengthen local provision, including production and repair.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "local-production-local-solutions",
+    "title": "Local Production Local Solutions",
+    "source": "https://www.disabilityinnovation.com/projects/local-production-local-solutions",
+    "details": {
+      "Status": "Concluded",
+      "Project type": "Research; Innovation",
+      "Country": "Africa; Nepal; Nigeria; South Sudan; Uganda; Zambia",
+      "Work type": "Include"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/51337/LPLS.webp?v=1788441758",
+      "alt": "Local Production Local Solutions Grantee Map"
+    },
+    "resources": [
+      {
+        "label": "COVIDAction Blog",
+        "url": "https://medium.com/covidaction/local/home"
+      },
+      {
+        "label": "Innovation Action: Website launch",
+        "url": "https://www.disabilityinnovation.com/news/innovationaction"
+      },
+      {
+        "label": "Innovation Action: Insights Podcast",
+        "url": "https://www.disabilityinnovation.com/news/podcast"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A response to disrupted supply chains that explores more adaptable local production systems for health and community needs in resource-constrained settings.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "local-systems-strengthening-nepal",
+    "title": "Local Systems Strengthening: Nepal",
+    "source": "https://www.disabilityinnovation.com/projects/local-systems-strengthening-nepal",
+    "details": {
+      "Status": "Live",
+      "Project type": "Research; Innovation",
+      "Country": "Nepal",
+      "Work type": "Include"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/94459/nepal-flag.webp?v=1788441761",
+      "alt": "Nepal Country Flag"
+    },
+    "resources": [
+      {
+        "label": "FCDO COVIDaction",
+        "url": "https://www.innovationaction.org/covid-action/"
+      },
+      {
+        "label": "Institute of Making Repair Programme",
+        "url": "https://www.instituteofmaking.org.uk"
+      },
+      {
+        "label": "Locally Produced Prosthetics in Nepal",
+        "url": "https://at2030.org/prosthetics-nepal/"
+      },
+      {
+        "label": "Enabling Access Locally:",
+        "url": "https://at2030.org/a-systems-approach-to-wheelchair-provisioning-in-low-resource-contexts-nepal/"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A Nepal-focused initiative connecting local and international assistive-technology expertise to address service gaps, including repair and locally developed solutions.",
+    "children": [
+      "local-systems-strengthening-nepal/enabling-fridays-community-building"
+    ],
+    "parent": null,
+    "record_type": "Programme or collection"
+  },
+  {
+    "slug": "local-systems-strengthening-nepal/enabling-fridays-community-building",
+    "title": "Enabling Fridays Community Nepal",
+    "source": "https://www.disabilityinnovation.com/projects/local-systems-strengthening-nepal/enabling-fridays-community-building",
+    "details": {
+      "Status": "Live",
+      "Project type": "Research; Innovation",
+      "Country": "Nepal",
+      "Work type": "Include"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/189977/Enabling-Fridays.webp?v=1788443444",
+      "alt": "3 people sat in chairs talking."
+    },
+    "resources": [
+      {
+        "label": "Enabling Fridays Community Vision Statement",
+        "url": "https://cdn.disabilityinnovation.com/uploads/images/Enabling-Fridays-Vision-Statement_2022-05-30-104321_bzgc.pdf?v=1653907399"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A community in Nepal working towards sustained assistive-technology provision through collaboration, evidence, advocacy and improvements across services and infrastructure.",
+    "children": [],
+    "parent": "local-systems-strengthening-nepal",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "msc-disability-design-and-innovation-at-ucl",
+    "title": "MSc Disability, Design and Innovation at UCL",
+    "source": "https://www.disabilityinnovation.com/projects/msc-disability-design-and-innovation-at-ucl",
+    "details": {
+      "Status": "Live",
+      "Project type": "Teaching",
+      "Country": "United Kingdom",
+      "Work type": "Impart"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/167073/DDI-Msc-classroom.webp?v=1788436689",
+      "alt": "Dr Dilisha Patel teaching the Disability, Design & Innovation MSc. She’s looking at a presentation on a large digital screen in a full classroom."
+    },
+    "resources": [
+      {
+        "label": "UCL programme page",
+        "url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/disability-design-and-innovation-msc"
+      },
+      {
+        "label": "Blog article",
+        "url": "https://www.disabilityinnovation.com/blog/ddi_blog"
+      },
+      {
+        "label": "Interview",
+        "url": "https://bit.ly/3tdGPGA"
+      },
+      {
+        "label": "Richard Amm",
+        "url": "https://bit.ly/3EaKTMR"
+      },
+      {
+        "label": "Katherine Wang",
+        "url": "https://bit.ly/3rhyxNF"
+      },
+      {
+        "label": "Divya Ramesh",
+        "url": "https://www.gdi-hub.ten4dev.com/blog/reflections-on-the-msc-ddi"
+      },
+      {
+        "label": "Amélie",
+        "url": "https://www.gdi-hub.ten4dev.com/blog/msc-stories-after-neuroscience"
+      },
+      {
+        "label": "Tamari Lukava",
+        "url": "https://www.gdi-hub.ten4dev.com/blog/why-i-choose-ddi"
+      },
+      {
+        "label": "Kate Mattick",
+        "url": "https://www.gdi-hub.ten4dev.com/blog/from-physiotherapy-to-an-inclusive-design-award-my-msc-journey"
+      },
+      {
+        "label": "Watch the source video",
+        "url": "https://www.youtube.com/embed/NyCzGfNRfiE"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "UCL’s postgraduate course brings disability innovation together with design and technology. The source page links to course and admissions information.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "multisensory-experience-at-the-queen-elizabeth-olympic-park",
+    "title": "Mapping Multisensory Experiences at the Queen Elizabeth Olympic Park",
+    "source": "https://www.disabilityinnovation.com/projects/multisensory-experience-at-the-queen-elizabeth-olympic-park",
+    "details": {
+      "Status": "Concluded",
+      "Project type": "Research",
+      "Country": "United Kingdom",
+      "Work type": "Integrate"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/7672/QEOP.webp?v=1788429855",
+      "alt": "Image of the QEOP logo  outdoors."
+    },
+    "resources": [],
+    "checked": "2026-11-02",
+    "summary": "Research with disabled residents of east London explored experiences of Queen Elizabeth Olympic Park and co-created ways of representing blind people’s multisensory experiences.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "pact",
+    "title": "PACT (Playful Assistive Technology for Complex Trauma Healing in Children and Young People)",
+    "source": "https://www.disabilityinnovation.com/projects/pact",
+    "details": {},
+    "image": null,
+    "resources": [
+      {
+        "label": "EPSRC",
+        "url": "https://www.ukri.org/"
+      },
+      {
+        "label": "UCLIC",
+        "url": "https://www.ucl.ac.uk/uclic"
+      },
+      {
+        "label": "Anna Freud",
+        "url": "https://www.annafreud.org/"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "PACT investigates co-designed technologies that support therapeutic play for children affected by complex trauma. The collaboration brings together UCLIC, GDI and Anna Freud expertise.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "phd-research-programme",
+    "title": "PhD Research Programme",
+    "source": "https://www.disabilityinnovation.com/projects/phd-research-programme",
+    "details": {
+      "Status": "Live",
+      "Project type": "Research",
+      "Work type": "Inquire"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/190038/250604_j-tye_ucl_356_ucl-east_3366.webp?v=1788435066",
+      "alt": "PhD students chatting in our design lab"
+    },
+    "resources": [
+      {
+        "label": "University College London",
+        "url": "https://www.ucl.ac.uk/prospective-students/graduate/research-degrees"
+      },
+      {
+        "label": "Loughborough London University",
+        "url": "https://www.lborolondon.ac.uk/study/research-degrees/"
+      },
+      {
+        "label": "University of the Arts London",
+        "url": "https://www.arts.ac.uk/"
+      },
+      {
+        "label": "UCLIC",
+        "url": "https://www.ucl.ac.uk/uclic/"
+      },
+      {
+        "label": "You can also explore our current PhD student projects",
+        "url": "https://www.ucl.ac.uk/uclic/research/research-projects?collection=drupal-brain-sciences-research-projects&meta_UclOrgUnit="
+      },
+      {
+        "label": "Cathy",
+        "url": "https://www.disabilityinnovation.com/who-we-are/our-team/dr-catherine-holloway"
+      },
+      {
+        "label": "Tim",
+        "url": "https://www.disabilityinnovation.com/who-we-are/our-team/tim-adlam"
+      },
+      {
+        "label": "Youngjun.",
+        "url": "https://www.disabilityinnovation.com/who-we-are/our-team/youngjun-cho"
+      },
+      {
+        "label": "UCL Development Planning Unit",
+        "url": "https://www.ucl.ac.uk/bartlett/development/"
+      },
+      {
+        "label": "UCL Institute of Making",
+        "url": "https://www.instituteofmaking.org.uk/"
+      },
+      {
+        "label": "UCL Institute for Innovation & Public Purpose",
+        "url": "https://www.ucl.ac.uk/bartlett/public-purpose/"
+      },
+      {
+        "label": "Aspire CREATe Centre for Rehabilitation Engineering and Assistive Technology",
+        "url": "https://www.ucl.ac.uk/surgery/research/materials-and-tissue/aspire-create-centre-rehabilitation-engineering-and-assistive"
+      },
+      {
+        "label": "UCL Institute for Healthcare Engineering",
+        "url": "https://www.ucl.ac.uk/healthcare-engineering/"
+      },
+      {
+        "label": "Salford University",
+        "url": "https://www.salford.ac.uk/"
+      },
+      {
+        "label": "Dr. Youngjun Cho",
+        "url": "https://www.disabilityinnovation.com/about/team/youngjun-cho"
+      },
+      {
+        "label": "Explore all PhD students' projects",
+        "url": "https://www.disabilityinnovation.com/search?q=PhD"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "An overview of interdisciplinary doctoral research associated with GDI and its academic partners, covering assistive technology and disability innovation.",
+    "children": [
+      "phd-research-programme/building-a-mobile-survey-collection-tool",
+      "phd-research-programme/designing-technology-for-blind-and-visually-impaired-people-outdoor-experiences",
+      "phd-research-programme/exploring-how-people-search-for-information-about-assistive-technology",
+      "phd-research-programme/forecasting-assistive-technology-needs-in-aged-and-ageing-populations",
+      "phd-research-programme/improving-information-retrieval-about-assistive-technology-through-an-intelligent-insights-portal",
+      "phd-research-programme/make-it-visible",
+      "phd-research-programme/measuring-physiological-signals-using-contactless-thermal-infrared-imaging",
+      "phd-research-programme/measuring-ultrasound-waves-to-improve-touch-technology",
+      "phd-research-programme/phd-research-tactile-displays-inclusive-education",
+      "phd-research-programme/technology-supported-capturing-and-sharing-of-multifaceted-running-experience",
+      "phd-research-programme/the-access-framework-using-inertial-sensors-to-understand-and-improve-manual-wheelchair-navigation-in-cities",
+      "phd-research-programme/virtual-reality-solutions-to-help-patients-with-dystonia"
+    ],
+    "parent": null,
+    "record_type": "Programme or collection"
+  },
+  {
+    "slug": "phd-research-programme/building-a-mobile-survey-collection-tool",
+    "title": "PhD Research: Building a mobile survey collection tool to gather information about disabilities and assistive technologies",
+    "source": "https://www.disabilityinnovation.com/projects/phd-research-programme/building-a-mobile-survey-collection-tool",
+    "details": {
+      "Status": "Concluded",
+      "Project type": "Research",
+      "Work type": "Include"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/105321/D.I.LIVE_mobile-disability-gap-2.webp?v=1788425484",
+      "alt": "Mobile phone image showcasing apps"
+    },
+    "resources": [],
+    "checked": "2026-11-02",
+    "summary": "Sahan Bulathwela’s doctoral work explored mobile survey tools for disability and assistive-technology research, including offline collection and household-level information.",
+    "children": [],
+    "parent": "phd-research-programme",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "phd-research-programme/designing-technology-for-blind-and-visually-impaired-people-outdoor-experiences",
+    "title": "PhD Research: Designing technology for blind and visually impaired people to share outdoor experiences",
+    "source": "https://www.disabilityinnovation.com/projects/phd-research-programme/designing-technology-for-blind-and-visually-impaired-people-outdoor-experiences",
+    "details": {
+      "Status": "Live",
+      "Project type": "Research",
+      "Country": "United Kingdom",
+      "Work type": "Inquire"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/58730/Main-Image-Maryam.webp?v=1788430627",
+      "alt": "A blind individual touching the Queen Elizabeth Olympic Park tactile map"
+    },
+    "resources": [
+      {
+        "label": "Towards technology design to support blind and partially sighted people’s outdoor experiences",
+        "url": "https://discovery.ucl.ac.uk/id/eprint/10193831/"
+      },
+      {
+        "label": "Understanding Visual Arts Experiences of Blind People",
+        "url": "https://discovery.ucl.ac.uk/id/eprint/10169560/"
+      },
+      {
+        "label": "Understanding Experiences of Blind Individuals in Outdoor Nature",
+        "url": "https://www.researchgate.net/publication/331959311_Understanding_Experiences_of_Blind_Individuals_in_Outdoor_Nature"
+      },
+      {
+        "label": "PLACES: A Framework for Supporting Blind and Partially Sighted People in Outdoor Leisure Activities",
+        "url": "https://www.researchgate.net/publication/343127093_PLACES_A_Framework_for_Supporting_Blind_and_Partially_Sighted_People_in_Outdoor_Leisure_Activities"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "Maryam Bandukda’s doctoral research developed approaches for blind and partially sighted people to explore and share experiences of outdoor leisure spaces.",
+    "children": [],
+    "parent": "phd-research-programme",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "phd-research-programme/exploring-how-people-search-for-information-about-assistive-technology",
+    "title": "PhD Research: Exploring how people search for information about assistive technology",
+    "source": "https://www.disabilityinnovation.com/projects/phd-research-programme/exploring-how-people-search-for-information-about-assistive-technology",
+    "details": {
+      "Status": "Live",
+      "Project type": "Research",
+      "Country": "Global",
+      "Work type": "Inquire"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/190283/pexels-kowalievska-1174775.webp?v=1788436336",
+      "alt": "Person Typing on Laptop."
+    },
+    "resources": [
+      {
+        "label": "Wen Mo",
+        "url": "https://www.disabilityinnovation.com/who-we-are/our-team/wen-mo"
+      },
+      {
+        "label": "Exploring Information Needs for Tracking to Support Using Wheelchairs in Everyday Life",
+        "url": "https://at2030.org/exploring-information-needs-for-tracking-to-support-using-wheelchairs-in-everyday-life/"
+      },
+      {
+        "label": "From Information Seeking to Empowerment:",
+        "url": "https://at2030.org/language-model-chatbot/"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "Wen Mo’s doctoral research examined how people look for assistive-technology information, with the aim of informing more inclusive information access.",
+    "children": [],
+    "parent": "phd-research-programme",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "phd-research-programme/forecasting-assistive-technology-needs-in-aged-and-ageing-populations",
+    "title": "PhD Research: Forecasting assistive technology needs in aged and ageing populations",
+    "source": "https://www.disabilityinnovation.com/projects/phd-research-programme/forecasting-assistive-technology-needs-in-aged-and-ageing-populations",
+    "details": {
+      "Status": "Live",
+      "Project type": "Research",
+      "Country": "Global",
+      "Work type": "Inquire"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/190367/live-lab-1.webp?v=1788431248",
+      "alt": ""
+    },
+    "resources": [
+      {
+        "label": "Demographic, socioeconomic, and social barriers to use of mobility assistive products:",
+        "url": "https://www.disabilityinnovation.com/publications/demographic-socioeconomic-barriers"
+      },
+      {
+        "label": "Estimating need and coverage for five priority assistive products: a systematic review of global population-based research",
+        "url": "https://gh.bmj.com/content/7/1/e007662"
+      },
+      {
+        "label": "Measuring assistive technology supply and demand: A scoping review",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/10400435.2021.1957039?scroll=top&needAccess=true"
+      },
+      {
+        "label": "AT Data Portal",
+        "url": "https://at2030.org/at-data-portal/map/"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "Jamie Danemayer’s doctoral work investigated how limited existing data could support estimates of future assistive-technology requirements as populations age.",
+    "children": [],
+    "parent": "phd-research-programme",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "phd-research-programme/improving-information-retrieval-about-assistive-technology-through-an-intelligent-insights-portal",
+    "title": "PhD Research: Improving information retrieval about assistive technology through an intelligent insights portal",
+    "source": "https://www.disabilityinnovation.com/projects/phd-research-programme/improving-information-retrieval-about-assistive-technology-through-an-intelligent-insights-portal",
+    "details": {
+      "Status": "Concluded",
+      "Project type": "Research",
+      "Work type": "Include"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/190053/pexels-tima-miroshnichenko-5717203.webp?v=1788436340",
+      "alt": "A Woman in an Orange Blazer Typing on a Laptop"
+    },
+    "resources": [
+      {
+        "label": "AT2030",
+        "url": "https://at2030.org/"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "Sahan Bulathwela’s doctoral research explored an AI-supported information portal to help decision-makers find and assess evidence about assistive technology.",
+    "children": [],
+    "parent": "phd-research-programme",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "phd-research-programme/make-it-visible",
+    "title": "PhD Research: Make It Visible - using 3D imaging and printing from microscopic",
+    "source": "https://www.disabilityinnovation.com/projects/phd-research-programme/make-it-visible",
+    "details": {
+      "Project type": "Research",
+      "Country": "United Kingdom",
+      "Work type": "Inquire"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/45657/micro-image.webp?v=1788443435",
+      "alt": ""
+    },
+    "resources": [
+      {
+        "label": "Natural History Museum (NHM)",
+        "url": "https://www.nhm.ac.uk/"
+      },
+      {
+        "label": "https://www.ucl.ac.uk/seaha-cdt/people/kate-burton",
+        "url": "https://www.ucl.ac.uk/seaha-cdt/people/kate-burton"
+      },
+      {
+        "label": "https://sensingculture.org.uk/videos/",
+        "url": "https://sensingculture.org.uk/videos/"
+      },
+      {
+        "label": "https://blogs.zeiss.com/microscopy/en/nhm-make-it-visible/",
+        "url": "https://blogs.zeiss.com/microscopy/en/nhm-make-it-visible/"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "Kate Burton’s doctoral research investigated tactile models derived from microscope images, using 3D imaging and printing to make microscopic structures accessible to visually impaired people.",
+    "children": [],
+    "parent": "phd-research-programme",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "phd-research-programme/measuring-physiological-signals-using-contactless-thermal-infrared-imaging",
+    "title": "PhD Research: Measuring physiological signals using contactless thermal infrared imaging",
+    "source": "https://www.disabilityinnovation.com/projects/phd-research-programme/measuring-physiological-signals-using-contactless-thermal-infrared-imaging",
+    "details": {
+      "Status": "Live",
+      "Project type": "Research",
+      "Country": "United Kingdom",
+      "Work type": "Include"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/115351/Untitled-design-23.webp?v=1788436336",
+      "alt": "Photographs showing a persons face under infrared imaging are displayed"
+    },
+    "resources": [],
+    "checked": "2026-11-02",
+    "summary": "Jitesh Joshi’s doctoral work investigated thermal imaging as a contactless approach to physiological measurement, addressing limitations of wearable sensing.",
+    "children": [],
+    "parent": "phd-research-programme",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "phd-research-programme/measuring-ultrasound-waves-to-improve-touch-technology",
+    "title": "PhD Research: Measuring ultrasound waves to improve touch technology",
+    "source": "https://www.disabilityinnovation.com/projects/phd-research-programme/measuring-ultrasound-waves-to-improve-touch-technology",
+    "details": {
+      "Status": "Live",
+      "Project type": "Research",
+      "Country": "United Kingdom",
+      "Work type": "Inquire"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/116532/Pat-4_2022-10-17-084933_knhl.webp?v=1788528583",
+      "alt": ""
+    },
+    "resources": [
+      {
+        "label": "Dr Youngjun Cho",
+        "url": "https://www.disabilityinnovation.com/who-we-are/our-team/youngjun-cho"
+      },
+      {
+        "label": "Touchless AI",
+        "url": "https://www.touchlessai.eu/"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "Zak Morgan’s doctoral research investigated ultrasound measurement to inform tactile interfaces and improve access to technologies that depend on touch.",
+    "children": [],
+    "parent": "phd-research-programme",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "phd-research-programme/phd-research-tactile-displays-inclusive-education",
+    "title": "PhD Research: Towards Affordable Tactile Displays for Inclusive Education",
+    "source": "https://www.disabilityinnovation.com/projects/phd-research-programme/phd-research-tactile-displays-inclusive-education",
+    "details": {
+      "Status": "Concluded",
+      "Project type": "Research",
+      "Work type": "Include"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/190253/1t.001.webp?v=1788422889",
+      "alt": "Reading squares of various sizes and drawing freehand Tactile Shapes using Toodleoo"
+    },
+    "resources": [
+      {
+        "label": "Tigmanshu Bhatnagar",
+        "url": "https://www.disabilityinnovation.com/who-we-are/our-team/tiigmanshu-bhatnagar"
+      },
+      {
+        "label": "Designing a New Tactile Display Technology and its Disability Interactions",
+        "url": "https://discovery.ucl.ac.uk/id/eprint/10176514/14/Bhatnagar_10176514_thesis_revision_sigs_removed.pdf"
+      },
+      {
+        "label": "UCL–IIT Delhi Strategic Partnership Seed Fund",
+        "url": "https://www.ucl.ac.uk/global/ucl-iit-delhi-strategic-partner-funds"
+      },
+      {
+        "label": "PRET Printer:",
+        "url": "https://at2030.org/static/at2030_core/outputs/3674829.3675070.pdf"
+      },
+      {
+        "label": "Brilliance and Resilience:",
+        "url": "https://www.researchgate.net/publication/373383436_Brilliance_and_Resilience_A_New_Perspective_to_the_Challenges_Practices_and_Needs_of_University_Students_with_Visual_Impairments_in_India"
+      },
+      {
+        "label": "Pixelated Interactions:",
+        "url": "https://www.researchgate.net/publication/372243788_Pixelated_Interactions_Exploring_Pixel_Art_for_Graphical_Primitives_on_a_Pin_Array_Tactile_Display"
+      },
+      {
+        "label": "Analysis of Product Architectures of Pin Array Technologies for Tactile Displays",
+        "url": "https://www.researchgate.net/publication/375220112_Analysis_of_Product_Architectures_of_Pin_Array_Technologies_for_Tactile_Displays"
+      },
+      {
+        "label": "Drawing Erasable Tactile Diagrams on Tacilia",
+        "url": "https://discovery.ucl.ac.uk/id/eprint/10131452/1/0272.pdf"
+      },
+      {
+        "label": "Explore Tacilia's website",
+        "url": "https://sites.google.com/view/hellotacilia/home"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "Research into lower-cost tactile displays for blind learners, including Tacilia and Toodleoo, to support participation in STEAM education.",
+    "children": [],
+    "parent": "phd-research-programme",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "phd-research-programme/technology-supported-capturing-and-sharing-of-multifaceted-running-experience",
+    "title": "PhD Research: Technology Supported Capturing and Sharing of Multifaceted Running Experience",
+    "source": "https://www.disabilityinnovation.com/projects/phd-research-programme/technology-supported-capturing-and-sharing-of-multifaceted-running-experience",
+    "details": {
+      "Status": "Concluded",
+      "Project type": "Research",
+      "Dates": "September 2017  — September 2021",
+      "Country": "United Kingdom",
+      "Work type": "Inquire"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/57377/running-project1.webp?v=1788462905",
+      "alt": ""
+    },
+    "resources": [],
+    "checked": "2026-11-02",
+    "summary": "Doctoral research explored technologies for recording and sharing the emotional and experiential aspects of running alongside conventional performance measures.",
+    "children": [],
+    "parent": "phd-research-programme",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "phd-research-programme/the-access-framework-using-inertial-sensors-to-understand-and-improve-manual-wheelchair-navigation-in-cities",
+    "title": "PhD Research: The ACCESS framework - Using inertial sensors to understand and improve manual wheelchair navigation in cities",
+    "source": "https://www.disabilityinnovation.com/projects/phd-research-programme/the-access-framework-using-inertial-sensors-to-understand-and-improve-manual-wheelchair-navigation-in-cities",
+    "details": {
+      "Status": "Concluded",
+      "Project type": "Research",
+      "Country": "United Kingdom",
+      "Work type": "Inquire"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/61793/nightpicturev2justend.webp?v=1788435066",
+      "alt": "A view of a park in London at night. A manual wheelchair user is propelling a wheelchair in this park. The wheelchair user is wearing an inertial sensor in the wrist, a second one is attached to the wheel. A trail of blue light shows the trajectory that the sensor measures from a couple propulsions of the wheelchair."
+    },
+    "resources": [
+      {
+        "label": "A Cross-Sectional Study",
+        "url": "https://doi.org/10.1007/978-3-030-20473-0_2"
+      },
+      {
+        "label": "Neuroergonomic Assessment of Wheelchair Control Using Mobile fNIRS",
+        "url": "https://doi.org/10.1109/TNSRE.2020.2987632"
+      },
+      {
+        "label": "Breathing Biofeedback Relaxation Intervention for Wheelchair Users in City Navigation",
+        "url": "https://doi.org/10.1109/EMBC44109.2020.9175692"
+      },
+      {
+        "label": "Novice vs Experienced Wheelchair Users: Perceived Difficulty of Task Performance With and Without a Push-Rim-Activated Power-Assisted Wheelchair (PAPAW)",
+        "url": "https://www.resna.org/sites/default/files/conference/2019/wheeled_mobility/Herrera.html"
+      },
+      {
+        "label": "Link to publication",
+        "url": "https://doi.org/10.1080/10400435.2019.1612384"
+      },
+      {
+        "label": "Towards a Wearable Wheelchair Monitor:",
+        "url": "https://ieeexplore.ieee.org/document/8616261"
+      },
+      {
+        "label": "Towards a Sensor-Based System",
+        "url": "https://dl.acm.org/doi/10.1145/3132525.3134805"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "Roxana Ramirez Herrera’s doctoral project combined inertial sensing and co-design to describe the effort involved in wheelchair journeys and inform route planning and urban accessibility.",
+    "children": [],
+    "parent": "phd-research-programme",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "phd-research-programme/virtual-reality-solutions-to-help-patients-with-dystonia",
+    "title": "PhD Research: Exploring virtual reality solutions to help patients with dystonia",
+    "source": "https://www.disabilityinnovation.com/projects/phd-research-programme/virtual-reality-solutions-to-help-patients-with-dystonia",
+    "details": {
+      "Status": "Live",
+      "Project type": "Research",
+      "Country": "United Kingdom",
+      "Work type": "Inquire"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/116730/IMG-20220707-WA0005__01.webp?v=1788452540",
+      "alt": "A photograph of Andreas presenting, stood next to a projected screen"
+    },
+    "resources": [
+      {
+        "label": "dystonia",
+        "url": "https://www.dystonia.org.uk/"
+      },
+      {
+        "label": "Andreas Polydorides",
+        "url": "https://www.disabilityinnovation.com/who-we-are/our-team/andreas-polydorides"
+      },
+      {
+        "label": "PRIME-VR2",
+        "url": "https://prime-vr2.eu/"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "Andreas Polydorides’s doctoral work explored possible uses of virtual reality for people with dystonia, a condition involving involuntary muscle contractions.",
+    "children": [],
+    "parent": "phd-research-programme",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "physiological-computing-artificial-intelligence-and-empowering-our-capability",
+    "title": "Physiological computing, artificial intelligence and empowering our capability",
+    "source": "https://www.disabilityinnovation.com/projects/physiological-computing-artificial-intelligence-and-empowering-our-capability",
+    "details": {
+      "Status": "Concluded",
+      "Project type": "Research",
+      "Dates": "July 2022",
+      "Country": "Global",
+      "Work type": "Inquire"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/118265/Comfort-AI-project-PI-Cho-2021-22-Funder-Bentley-Motors.webp?v=1788441766",
+      "alt": "A graphic of a person sat in a car wearing physiological sensors across their torso, wrist and legs"
+    },
+    "resources": [
+      {
+        "label": "Prof. Youngjun Cho Professor at UCL Computer Science & Director of MSc DDI & Lead of GDI Physiological Computing research",
+        "url": "https://www.disabilityinnovation.com/who-we-are/our-team/youngjun-cho"
+      },
+      {
+        "label": "Physiological Computing and Artificial Intelligence lab",
+        "url": "https://youngjuncho.com/physiological-computing-artificial-intelligence/"
+      },
+      {
+        "label": "Physiological Computing Lab",
+        "url": "https://github.com/PhysiologicAILab"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "An overview of Youngjun Cho’s work connecting physiological computing, artificial intelligence and accessible interaction to advance disability-related technologies.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "power-up-fuelling-the-next-generation-of-assistive-technologies",
+    "title": "Power-up! - Fuelling the next generation of assistive technologies",
+    "source": "https://www.disabilityinnovation.com/projects/power-up-fuelling-the-next-generation-of-assistive-technologies",
+    "details": {
+      "Status": "Concluded",
+      "Project type": "Research",
+      "Dates": "August 2016  — August 2017",
+      "Country": "United Kingdom",
+      "Work type": "Include"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/183/power-up.webp?v=1788441759",
+      "alt": "A computer generated 3D model of a wheelchair on a blue chequered background."
+    },
+    "resources": [
+      {
+        "label": "https://assets17.sigaccess.org/program.html",
+        "url": "https://assets17.sigaccess.org/program.html"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "Power-up investigated manual wheelchair users’ requirements for powered assistance and considered whether fuel cells could meet assistive-technology energy needs.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "scale",
+    "title": "Scale Innovation",
+    "source": "https://www.disabilityinnovation.com/projects/scale",
+    "details": {
+      "Status": "Live",
+      "Work type": "Incubate"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/99458/MicrosoftTeams-image-4.webp?v=1788422631",
+      "alt": "Image of young women - wearing fashion led eye glasses - in a bright jumper"
+    },
+    "resources": [
+      {
+        "label": "Innovator Enquiry form",
+        "url": "https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&token=0ffbe585d5bb4c28930886b4145a832e&id=_oivH5ipW0yTySEKEdmlwsBuyjbqVX1Ju_vQ8vHVdItUN1cyN1dQQVlITDFNSDIwNEdWNk5UM1g3UC4u&analysis=false"
+      },
+      {
+        "label": "Making the direct-to-consumer model work for AT",
+        "url": "https://www.disabilityinnovation.com/blog/atif_blog_series_1"
+      },
+      {
+        "label": "Validate to find customers in AT ventures",
+        "url": "https://www.disabilityinnovation.com/blog/validate-to-find-customers"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "The scaling stage of GDI’s innovation support combines venture development and funding approaches to help assistive-technology businesses reach wider markets.",
+    "children": [
+      "scale/at2030-spark-innovation-programme",
+      "scale/lean-impact-measurement"
+    ],
+    "parent": null,
+    "record_type": "Programme or collection"
+  },
+  {
+    "slug": "scale/at2030-spark-innovation-programme",
+    "title": "AT Impact Fund",
+    "source": "https://www.disabilityinnovation.com/projects/scale/at2030-spark-innovation-programme",
+    "details": {},
+    "image": null,
+    "resources": [
+      {
+        "label": "Assistive Technology Impact Fund (ATIF)",
+        "url": "https://atimpactfund.com/"
+      },
+      {
+        "label": "HearX’s",
+        "url": "https://www.hearxgroup.com/"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "The AT Impact Fund combines funding with specialist venture support to help assistive-technology businesses in Africa grow and test viable approaches to reaching users.",
+    "children": [],
+    "parent": "scale",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "scale/lean-impact-measurement",
+    "title": "Lean Impact Measurement for AT: capturing the changes in the quality of life",
+    "source": "https://www.disabilityinnovation.com/projects/scale/lean-impact-measurement",
+    "details": {
+      "Status": "Live",
+      "Project type": "Research; Innovation",
+      "Country": "India; Kenya; Sierra Leone; South Africa; Turkey; Uganda; Syria",
+      "Work type": "Inquire"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/107328/GDI-HUB_photo6.webp?v=1788441768",
+      "alt": "Discussion group sitting in a circle"
+    },
+    "resources": [
+      {
+        "label": "60 Decibels",
+        "url": "https://60decibels.com/"
+      },
+      {
+        "label": "AT2030 programme",
+        "url": "https://at2030.org/"
+      },
+      {
+        "label": "impact include our recent paper",
+        "url": "https://at2030.org/static/at2030_core/outputs/innovation_insights_miracle_feet.pdf"
+      },
+      {
+        "label": "Assistive Tech Impact Fund",
+        "url": "https://atimpactfund.com/"
+      },
+      {
+        "label": "MiracleFeet.",
+        "url": "https://www.miraclefeet.org/"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A study of how assistive technology affects users’ everyday activities, independence and satisfaction with life, drawing on experiences across several companies.",
+    "children": [],
+    "parent": "scale",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "smart-prosthetic-liners",
+    "title": "Smart Prosthetic Liners",
+    "source": "https://www.disabilityinnovation.com/projects/smart-prosthetic-liners",
+    "details": {
+      "Status": "Live",
+      "Project type": "Research",
+      "Country": "United Kingdom",
+      "Work type": "Inquire"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/123252/publications-page-4.webp?v=1788432767",
+      "alt": ""
+    },
+    "resources": [
+      {
+        "label": "https://doi.org/10.3389/frobt.2019.00027",
+        "url": "https://doi.org/10.3389/frobt.2019.00027"
+      },
+      {
+        "label": "https://doi.org/10.1016/j.medengphy.2020.11.006",
+        "url": "https://doi.org/10.1016/j.medengphy.2020.11.006"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "Research into prosthetic liners that combine custom fabrication with soft sensors, monitoring of limb changes and possible cooling functions.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "spark-innovation",
+    "title": "Spark Innovation",
+    "source": "https://www.disabilityinnovation.com/projects/spark-innovation",
+    "details": {
+      "Status": "Live",
+      "Project type": "Innovation",
+      "Work type": "Incubate"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/62/enable-makeathon-2.0.webp?v=1788443431",
+      "alt": "photo of team smiling next to a GDI hub banner"
+    },
+    "resources": [
+      {
+        "label": "Innovator Enquiry form",
+        "url": "https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&token=0ffbe585d5bb4c28930886b4145a832e&id=_oivH5ipW0yTySEKEdmlwsBuyjbqVX1Ju_vQ8vHVdItUN1cyN1dQQVlITDFNSDIwNEdWNk5UM1g3UC4u&analysis=false"
+      },
+      {
+        "label": "TIDAL N+",
+        "url": "https://www.disabilityinnovation.com/projects/tidal"
+      },
+      {
+        "label": "Creating accessible interfaces for people living with MND, ALS or MD",
+        "url": "https://www.disabilityinnovation.com/projects/spark-innovation/idc2"
+      },
+      {
+        "label": "Microsoft Form: Spark Innovation Event",
+        "url": "https://forms.office.com/r/0X9ur2HPNK"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "An early-stage innovation programme using co-design, events and proof-of-concept support to develop responses to needs identified with disabled communities.",
+    "children": [
+      "spark-innovation/enable-makeathon-2-0"
+    ],
+    "parent": null,
+    "record_type": "Programme or collection"
+  },
+  {
+    "slug": "spark-innovation/enable-makeathon-2-0",
+    "title": "Enable Makeathon 2.0",
+    "source": "https://www.disabilityinnovation.com/projects/spark-innovation/enable-makeathon-2-0",
+    "details": {
+      "Status": "Concluded",
+      "Project type": "Innovation; Advocacy",
+      "Dates": "November 2017  — February 2018",
+      "Country": "India; United Kingdom",
+      "Work type": "Include"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/461/cocreation115.webp?v=1788430747",
+      "alt": "Photo of a young Indian girl on an oversized wheelchair being fed by her mother"
+    },
+    "resources": [
+      {
+        "label": "Watch the source video",
+        "url": "https://www.youtube.com/embed/05WajhAIoac"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "GDI, UCL and the International Committee of the Red Cross supported five teams in a London development programme to advance disability-related products and services.",
+    "children": [],
+    "parent": "spark-innovation",
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "start-up-innovation",
+    "title": "Start-up Innovation",
+    "source": "https://www.disabilityinnovation.com/projects/start-up-innovation",
+    "details": {
+      "Status": "Live",
+      "Project type": "Innovation",
+      "Work type": "Incubate"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/119869/Live-labs-testing-49.webp?v=1788426071",
+      "alt": "VR headset being fitted to a child in a classroom environment in Kenya, by the founder. The young girl is smiling."
+    },
+    "resources": [
+      {
+        "label": "Innovator Enquiry form",
+        "url": "https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&token=0ffbe585d5bb4c28930886b4145a832e&id=_oivH5ipW0yTySEKEdmlwsBuyjbqVX1Ju_vQ8vHVdItUN1cyN1dQQVlITDFNSDIwNEdWNk5UM1g3UC4u&analysis=false"
+      },
+      {
+        "label": "Innovate Now, Africa's first Assistive Tech Accelerator",
+        "url": "https://www.disabilityinnovation.com/projects/start-up-innovation/innovate-now-how-is-gdi-hub-accelerating-disability-innovation-in-kenya"
+      },
+      {
+        "label": "Live Lab",
+        "url": "https://www.disabilityinnovation.com/projects/live-labs"
+      },
+      {
+        "label": "Innovate Now website",
+        "url": "https://atinnovatenow.com/"
+      },
+      {
+        "label": "Kilimanjaro Blind Trust Africa (KBTA)",
+        "url": "https://www.kilimanjaroblindtrust.org/"
+      },
+      {
+        "label": "ICT Norway",
+        "url": "https://www.ikt-norge.no/english/"
+      },
+      {
+        "label": "Norad",
+        "url": "https://www.norad.no/en/front/"
+      },
+      {
+        "label": "AT2030",
+        "url": "https://at2030.org/"
+      },
+      {
+        "label": "UK aid",
+        "url": "https://www.ukaiddirect.org/"
+      },
+      {
+        "label": "Innovate Now - Innovation Toolkit",
+        "url": "https://www.disabilityinnovation.com/toolkit"
+      },
+      {
+        "label": "Innovate Now: Innovation Curriculum (edition 2) - request access",
+        "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwvoWxNrdAY5CuwTwPv2JNNlUMjlFRFpNTEY0QVlaSTFWRlhTTEZPWkpFVS4u"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "Support for early assistive-technology businesses through entrepreneurship training, user-informed development and advice on business models. The programme includes Innovate Now and Live Lab approaches.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "storytelling-and-community-building-for-people-with-disabilities",
+    "title": "Storytelling and community building for people with disabilities",
+    "source": "https://www.disabilityinnovation.com/projects/storytelling-and-community-building-for-people-with-disabilities",
+    "details": {
+      "Status": "Live",
+      "Project type": "Research",
+      "Country": "Global",
+      "Work type": "Include"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/12950/Amadu-leads-group-work-with-partially-si.webp?v=1788436341",
+      "alt": "Amadu leads group work with partially sighted participants"
+    },
+    "resources": [
+      {
+        "label": "upper limb differences in Sierra Leone, in partnership with Koalaa,",
+        "url": "https://at2030.org/koalaa-an-at-impact-story/"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "Maryam Bandukda’s work supports disabled communities to develop storytelling skills and opportunities to express priorities and participate in discussions affecting their lives.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "technology-mediated-access-to-open-spaces-for-bling-and-partially-sighted-people",
+    "title": "PhD Research: Designing technologies to support open space leisure experiences of blind and partially sighted people",
+    "source": "https://www.disabilityinnovation.com/projects/technology-mediated-access-to-open-spaces-for-bling-and-partially-sighted-people",
+    "details": {
+      "Status": "Concluded",
+      "Project type": "Research",
+      "Dates": "September 2017  — September 2021",
+      "Country": "United Kingdom",
+      "Work type": "Include"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/58730/Main-Image-Maryam.webp?v=1788430627",
+      "alt": "A blind individual touching the Queen Elizabeth Olympic Park tactile map"
+    },
+    "resources": [
+      {
+        "label": "PictureThis",
+        "url": "https://www.picturethisai.com"
+      },
+      {
+        "label": "PlantSnap",
+        "url": "https://www.plantsnap.com"
+      },
+      {
+        "label": "iNaturalist",
+        "url": "https://play.google.com/store/apps/details?id=org.inaturalist.android&hl=en_GB"
+      },
+      {
+        "label": "PlantNet",
+        "url": "https://identify.plantnet.org"
+      },
+      {
+        "label": "Warblr",
+        "url": "https://www.warblr.co.uk"
+      },
+      {
+        "label": "BirdUp",
+        "url": "https://play.google.com/store/apps/details?id=com.jb.birdlistener.birdup&hl=en_GB&pli=1"
+      },
+      {
+        "label": "Chirp!",
+        "url": "https://www.spinysoftware.com/chirp/"
+      },
+      {
+        "label": "Accessable",
+        "url": "https://www.accessable.co.uk/"
+      },
+      {
+        "label": "View publications on ResearchGate",
+        "url": "https://www.researchgate.net/profile/Maryam-Bandukda/research"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "Research into accessible mobile mapping and shared multimedia experiences to help blind and partially sighted people explore parks and other open spaces.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "tokyo-2020-knowledge-exchange",
+    "title": "Tokyo 2020 - Knowledge Exchange",
+    "source": "https://www.disabilityinnovation.com/projects/tokyo-2020-knowledge-exchange",
+    "details": {},
+    "image": null,
+    "resources": [
+      {
+        "label": "British Council Japan",
+        "url": "https://www.britishcouncil.jp/en"
+      },
+      {
+        "label": "British Embassy Japan",
+        "url": "https://www.gov.uk/world/organisations/british-embassy-tokyo"
+      },
+      {
+        "label": "British Paralympic Association (BPA)",
+        "url": "https://paralympics.org.uk/"
+      },
+      {
+        "label": "UCL",
+        "url": "https://www.ucl.ac.uk/"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "An account of GDI’s July 2018 visit to Tokyo to exchange learning from London’s Paralympic legacy with Japanese partners ahead of Tokyo 2020.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "towards-dharmic-hci",
+    "title": "Towards Dharmic HCI: Designing for Dignity Beyond Western Assumptions",
+    "source": "https://www.disabilityinnovation.com/projects/towards-dharmic-hci",
+    "details": {},
+    "image": null,
+    "resources": [
+      {
+        "label": "India HCI 2026 registration information",
+        "url": "https://www.2026.indiahci.org/registration"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "Research bringing Dharmic perspectives into conversation with human-computer interaction, exploring how different understandings of people and wellbeing can inform technology design.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "user-centred-design-for-at",
+    "title": "Furthering user centred design for assistive technology around the world",
+    "source": "https://www.disabilityinnovation.com/projects/user-centred-design-for-at",
+    "details": {
+      "Status": "Live",
+      "Project type": "Research",
+      "Country": "India; Kenya; Global",
+      "Work type": "Incubate"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/190313/live-lab.webp?v=1788459527",
+      "alt": "A person wearing a virtual reality headset adjusts it with their hands."
+    },
+    "resources": [
+      {
+        "label": "Innovate Now",
+        "url": "https://atinnovatenow.com/"
+      },
+      {
+        "label": "Live Labs",
+        "url": "https://www.disabilityinnovation.com/projects/live-labs"
+      },
+      {
+        "label": "Innovation Coaching",
+        "url": "https://www.disabilityinnovation.com/projects/innovation-coaching"
+      },
+      {
+        "label": "GDI Hub Accelerate",
+        "url": "https://www.disabilityinnovation.com/projects/accelerate"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "Tigmanshu Bhatnagar’s work seeks to strengthen disabled people’s involvement in assistive-technology development through user-centred design practices.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "working-on-data-and-evidence-to-unlock-investment",
+    "title": "Working on data and evidence to unlock investment into assistive technology",
+    "source": "https://www.disabilityinnovation.com/projects/working-on-data-and-evidence-to-unlock-investment",
+    "details": {
+      "Status": "Live",
+      "Project type": "Research",
+      "Work type": "Invest"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/121899/Kate-instagram-ideas-6.webp?v=1788439302",
+      "alt": "A graphic image of a world map. Some countries are coloured in Purple representating collated data"
+    },
+    "resources": [
+      {
+        "label": "AT2030",
+        "url": "https://at2030.org/"
+      },
+      {
+        "label": "Prof Catherine Holloway (she/her) Co-founder & Academic Director; Professor, UCL",
+        "url": "https://www.disabilityinnovation.com/who-we-are/our-team/dr-catherine-holloway"
+      },
+      {
+        "label": "AT2030: Data and Evidence",
+        "url": "https://at2030.org/data-and-evidence/"
+      },
+      {
+        "label": "WHO-UNICEF Global Report on Assistive Technology",
+        "url": "https://apps.who.int/iris/bitstream/handle/10665/354357/9789240049451-eng.pdf?sequence=1&isAllowed=y"
+      },
+      {
+        "label": "Koalaa",
+        "url": "https://www.yourkoalaa.com/"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "An overview of the AT2030 evidence work overseen by Cathy Holloway, addressing information gaps that affect decisions about assistive-technology investment and provision.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "working-on-innovation-to-support-new-products-and-service-delivery",
+    "title": "Working on innovation to support new products and service delivery in assistive technology",
+    "source": "https://www.disabilityinnovation.com/projects/working-on-innovation-to-support-new-products-and-service-delivery",
+    "details": {
+      "Status": "Live",
+      "Project type": "Research",
+      "Dates": "April 2022",
+      "Country": "Global",
+      "Work type": "Inquire"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/185273/image-8.webp?v=1788425266",
+      "alt": "Two people engaging in conversation - with a wheelchair in the background on the wall"
+    },
+    "resources": [
+      {
+        "label": "AT2030",
+        "url": "https://at2030.org/"
+      },
+      {
+        "label": "Prof Catherine Holloway (she/her) Co-founder & Academic Director; Professor, UCL",
+        "url": "https://www.disabilityinnovation.com/who-we-are/our-team/dr-catherine-holloway"
+      },
+      {
+        "label": "AT2030: Innovation",
+        "url": "https://at2030.org/innovation/"
+      },
+      {
+        "label": "Innovate Now",
+        "url": "https://atinnovatenow.com/"
+      },
+      {
+        "label": "Assistive Technology Impact Fund",
+        "url": "https://atimpactfund.com/"
+      },
+      {
+        "label": "Local System Strengthening for manufacturing Assistive Technology",
+        "url": "https://www.disabilityinnovation.com/projects/local-systems-strengthening-for-manufacturing-assistive-technology"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "An overview of AT2030 innovation work overseen by Cathy Holloway, emphasising disabled people’s participation, product testing, partnerships and viable approaches to delivery.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "working-towards-inclusive-infrastructure-in-cities-around-the-world",
+    "title": "Working towards inclusive infrastructure in cities around the world",
+    "source": "https://www.disabilityinnovation.com/projects/working-towards-inclusive-infrastructure-in-cities-around-the-world",
+    "details": {
+      "Status": "Live",
+      "Project type": "Research",
+      "Dates": "April 2022",
+      "Country": "Global",
+      "Work type": "Inquire"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/117905/Ulaanbaatar-resident.webp?v=1788443454",
+      "alt": "Resident and wheelchair user demonstrating the difficulties of mobility around the informal settlements surrounding the city of Ulaanbaatar, Mongolia."
+    },
+    "resources": [
+      {
+        "label": "Iain McKinnon",
+        "url": "https://www.disabilityinnovation.com/who-we-are/our-team/iain-mckinnon"
+      },
+      {
+        "label": "Global Action Report",
+        "url": "https://at2030.org/static/at2030_core/outputs/Global_Action_Report_1m7Q4UH.pdf"
+      },
+      {
+        "label": "Built Environment in Ulaanbaatar, Mongolia",
+        "url": "https://at2030.org/inclusive-design-and-accessibility-of-the-built-environment-in-ulaanbaatar/"
+      },
+      {
+        "label": "Built Environment in Varanasi, India",
+        "url": "https://at2030.org/inclusive-design-and-accessibility-of-the-built-environment-in-varanasi-india/"
+      },
+      {
+        "label": "Built Environment in Solo, Indonesia",
+        "url": "https://at2030.org/inclusive-design-and-accessibility-of-the-built-environment-in-solo,-indonesia/"
+      },
+      {
+        "label": "Mikaela Patrick",
+        "url": "https://www.disabilityinnovation.com/who-we-are/our-team/mikaela-patrick"
+      },
+      {
+        "label": "Global Comparison Report",
+        "url": "https://at2030.org/static/at2030_core/outputs/GDI_Hub_-_A_global_comparison_report_on_Inclusive_Infrastruct_zaYpq3a.pdf"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "GDI research led by Iain McKinnon examines inclusive urban design and how accessible surroundings support disabled people’s participation and use of assistive technology.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  },
+  {
+    "slug": "world-bank-ict",
+    "title": "World Bank: A Landscape Review of ICT for Disability-Inclusive Education",
+    "source": "https://www.disabilityinnovation.com/projects/world-bank-ict",
+    "details": {
+      "Status": "Concluded",
+      "Project type": "Research; Programmes",
+      "Dates": "June 2022",
+      "Country": "Global",
+      "Work type": "Inquire"
+    },
+    "image": {
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/178035/3ad38cee-ddd3-ecaf-884e-d7d95a16626a.webp?v=1788443442",
+      "alt": "A young man with a tablet and headphones is embraced by a smiling woman as they look at the screen together"
+    },
+    "resources": [
+      {
+        "label": "Report: ICT Landscape Review",
+        "url": "https://www.inclusive-education-initiative.org/events/ict-landscape-review-use-ict-improving-educational-participation-and-outcomes-children"
+      },
+      {
+        "label": "ICT Landscape review",
+        "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099840001312211991/p17136805cfd1f074095390cb6b01c0c715"
+      },
+      {
+        "label": "landscape review",
+        "url": "https://documents1.worldbank.org/curated/en/099840001312211991/pdf/P17136805cfd1f074095390cb6b01c0c715.pdf"
+      }
+    ],
+    "checked": "2026-11-02",
+    "summary": "A GDI review for the World Bank examines how information and communication technologies can support disabled children’s participation and outcomes in education.",
+    "children": [],
+    "parent": null,
+    "record_type": "Project or resource profile"
+  }
+]

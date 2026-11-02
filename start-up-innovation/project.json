@@ -1,0 +1,65 @@
+{
+  "slug": "start-up-innovation",
+  "title": "Start-up Innovation",
+  "source": "https://www.disabilityinnovation.com/projects/start-up-innovation",
+  "details": {
+    "Status": "Live",
+    "Project type": "Innovation",
+    "Work type": "Incubate"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/119869/Live-labs-testing-49.webp?v=1788426071",
+    "alt": "VR headset being fitted to a child in a classroom environment in Kenya, by the founder. The young girl is smiling."
+  },
+  "resources": [
+    {
+      "label": "Innovator Enquiry form",
+      "url": "https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&token=0ffbe585d5bb4c28930886b4145a832e&id=_oivH5ipW0yTySEKEdmlwsBuyjbqVX1Ju_vQ8vHVdItUN1cyN1dQQVlITDFNSDIwNEdWNk5UM1g3UC4u&analysis=false"
+    },
+    {
+      "label": "Innovate Now, Africa's first Assistive Tech Accelerator",
+      "url": "https://www.disabilityinnovation.com/projects/start-up-innovation/innovate-now-how-is-gdi-hub-accelerating-disability-innovation-in-kenya"
+    },
+    {
+      "label": "Live Lab",
+      "url": "https://www.disabilityinnovation.com/projects/live-labs"
+    },
+    {
+      "label": "Innovate Now website",
+      "url": "https://atinnovatenow.com/"
+    },
+    {
+      "label": "Kilimanjaro Blind Trust Africa (KBTA)",
+      "url": "https://www.kilimanjaroblindtrust.org/"
+    },
+    {
+      "label": "ICT Norway",
+      "url": "https://www.ikt-norge.no/english/"
+    },
+    {
+      "label": "Norad",
+      "url": "https://www.norad.no/en/front/"
+    },
+    {
+      "label": "AT2030",
+      "url": "https://at2030.org/"
+    },
+    {
+      "label": "UK aid",
+      "url": "https://www.ukaiddirect.org/"
+    },
+    {
+      "label": "Innovate Now - Innovation Toolkit",
+      "url": "https://www.disabilityinnovation.com/toolkit"
+    },
+    {
+      "label": "Innovate Now: Innovation Curriculum (edition 2) - request access",
+      "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwvoWxNrdAY5CuwTwPv2JNNlUMjlFRFpNTEY0QVlaSTFWRlhTTEZPWkpFVS4u"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "Support for early assistive-technology businesses through entrepreneurship training, user-informed development and advice on business models. The programme includes Innovate Now and Live Lab approaches.",
+  "children": [],
+  "parent": null,
+  "record_type": "Project or resource profile"
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "assistive-technology-need-data-repository",
+  "title": "Assistive Technology Need Data Repository",
+  "source": "https://www.disabilityinnovation.com/projects/assistive-technology-need-data-repository",
+  "details": {
+    "Status": "Concluded",
+    "Project type": "Research",
+    "Work type": "Inquire"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/190394/live-lab-2.webp?v=1788447762",
+    "alt": "A person in a blue sari walks alongside a person on a home-built wheelchair, holding onto the back of the wheelchair. The person on the wheelchair holds a green and blue umbrella."
+  },
+  "resources": [
+    {
+      "label": "Scoping Review",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/10400435.2021.1957039"
+    },
+    {
+      "label": "Systematic Review",
+      "url": "https://at2030.org/estimating-need-and-coverage-for-five-priority-assistive-products/"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "A collection of population-level evidence about assistive-technology requirements and access, supported by evidence reviews and a public data repository.",
+  "children": [],
+  "parent": null,
+  "record_type": "Project or resource profile"
+}

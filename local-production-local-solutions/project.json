@@ -1,0 +1,34 @@
+{
+  "slug": "local-production-local-solutions",
+  "title": "Local Production Local Solutions",
+  "source": "https://www.disabilityinnovation.com/projects/local-production-local-solutions",
+  "details": {
+    "Status": "Concluded",
+    "Project type": "Research; Innovation",
+    "Country": "Africa; Nepal; Nigeria; South Sudan; Uganda; Zambia",
+    "Work type": "Include"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/51337/LPLS.webp?v=1788441758",
+    "alt": "Local Production Local Solutions Grantee Map"
+  },
+  "resources": [
+    {
+      "label": "COVIDAction Blog",
+      "url": "https://medium.com/covidaction/local/home"
+    },
+    {
+      "label": "Innovation Action: Website launch",
+      "url": "https://www.disabilityinnovation.com/news/innovationaction"
+    },
+    {
+      "label": "Innovation Action: Insights Podcast",
+      "url": "https://www.disabilityinnovation.com/news/podcast"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "A response to disrupted supply chains that explores more adaptable local production systems for health and community needs in resource-constrained settings.",
+  "children": [],
+  "parent": null,
+  "record_type": "Project or resource profile"
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "phd-research-programme/exploring-how-people-search-for-information-about-assistive-technology",
+  "title": "PhD Research: Exploring how people search for information about assistive technology",
+  "source": "https://www.disabilityinnovation.com/projects/phd-research-programme/exploring-how-people-search-for-information-about-assistive-technology",
+  "details": {
+    "Status": "Live",
+    "Project type": "Research",
+    "Country": "Global",
+    "Work type": "Inquire"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/190283/pexels-kowalievska-1174775.webp?v=1788436336",
+    "alt": "Person Typing on Laptop."
+  },
+  "resources": [
+    {
+      "label": "Wen Mo",
+      "url": "https://www.disabilityinnovation.com/who-we-are/our-team/wen-mo"
+    },
+    {
+      "label": "Exploring Information Needs for Tracking to Support Using Wheelchairs in Everyday Life",
+      "url": "https://at2030.org/exploring-information-needs-for-tracking-to-support-using-wheelchairs-in-everyday-life/"
+    },
+    {
+      "label": "From Information Seeking to Empowerment:",
+      "url": "https://at2030.org/language-model-chatbot/"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "Wen Mo’s doctoral research examined how people look for assistive-technology information, with the aim of informing more inclusive information access.",
+  "children": [],
+  "parent": "phd-research-programme",
+  "record_type": "Project or resource profile"
+}

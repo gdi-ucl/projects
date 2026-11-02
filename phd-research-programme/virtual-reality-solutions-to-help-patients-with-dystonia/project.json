@@ -1,0 +1,34 @@
+{
+  "slug": "phd-research-programme/virtual-reality-solutions-to-help-patients-with-dystonia",
+  "title": "PhD Research: Exploring virtual reality solutions to help patients with dystonia",
+  "source": "https://www.disabilityinnovation.com/projects/phd-research-programme/virtual-reality-solutions-to-help-patients-with-dystonia",
+  "details": {
+    "Status": "Live",
+    "Project type": "Research",
+    "Country": "United Kingdom",
+    "Work type": "Inquire"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/116730/IMG-20220707-WA0005__01.webp?v=1788452540",
+    "alt": "A photograph of Andreas presenting, stood next to a projected screen"
+  },
+  "resources": [
+    {
+      "label": "dystonia",
+      "url": "https://www.dystonia.org.uk/"
+    },
+    {
+      "label": "Andreas Polydorides",
+      "url": "https://www.disabilityinnovation.com/who-we-are/our-team/andreas-polydorides"
+    },
+    {
+      "label": "PRIME-VR2",
+      "url": "https://prime-vr2.eu/"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "Andreas Polydorides’s doctoral work explored possible uses of virtual reality for people with dystonia, a condition involving involuntary muscle contractions.",
+  "children": [],
+  "parent": "phd-research-programme",
+  "record_type": "Project or resource profile"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "crowdbot",
+  "title": "CROWDBOT: A crowd-aware shared-control wheelchair navigation system",
+  "source": "https://www.disabilityinnovation.com/projects/crowdbot",
+  "details": {
+    "Status": "Concluded",
+    "Project type": "Research",
+    "Country": "United Kingdom",
+    "Work type": "Include"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/531/CROWDBOT.webp?v=1788421860",
+    "alt": "Man using a latop to operate a wheelchair"
+  },
+  "resources": [
+    {
+      "label": "INRIA",
+      "url": "https://www.inria.fr/en/"
+    },
+    {
+      "label": "EPFL",
+      "url": "https://www.epfl.ch/en/home/"
+    },
+    {
+      "label": "ETHZ",
+      "url": "https://www.ethz.ch/en.html"
+    },
+    {
+      "label": "UCL",
+      "url": "https://www.ucl.ac.uk/"
+    },
+    {
+      "label": "Tom Carlson",
+      "url": "https://iris.ucl.ac.uk/iris/browse/profile?upi=TCARL67"
+    },
+    {
+      "label": "Cathy Holloway",
+      "url": "https://www.disabilityinnovation.com/who-we-are/our-team/dr-catherine-holloway"
+    },
+    {
+      "label": "Bingqing (Pat) Zhang",
+      "url": "https://www.disabilityinnovation.com/who-we-are/our-team/bingqing-pat-zhang"
+    },
+    {
+      "label": "https://drive.google.com/file/d/1-xYeRGTvwB1repF1otKoIeuv8k0drfx6/view?usp=sharing",
+      "url": "https://drive.google.com/file/d/1-xYeRGTvwB1repF1otKoIeuv8k0drfx6/view?usp=sharing"
+    },
+    {
+      "label": "Click here to view the list of publications",
+      "url": "https://www.researchgate.net/profile/Bingqing-Zhang-5/research"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "CROWDBOT investigated robot navigation in crowded environments, including wheelchairs that assist with manoeuvring while preserving the user’s control. GDI contributed to co-design and evaluation.",
+  "children": [],
+  "parent": null,
+  "record_type": "Project or resource profile"
+}

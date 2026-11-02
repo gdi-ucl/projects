@@ -1,0 +1,40 @@
+{
+  "slug": "local-systems-strengthening-nepal",
+  "title": "Local Systems Strengthening: Nepal",
+  "source": "https://www.disabilityinnovation.com/projects/local-systems-strengthening-nepal",
+  "details": {
+    "Status": "Live",
+    "Project type": "Research; Innovation",
+    "Country": "Nepal",
+    "Work type": "Include"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/94459/nepal-flag.webp?v=1788441761",
+    "alt": "Nepal Country Flag"
+  },
+  "resources": [
+    {
+      "label": "FCDO COVIDaction",
+      "url": "https://www.innovationaction.org/covid-action/"
+    },
+    {
+      "label": "Institute of Making Repair Programme",
+      "url": "https://www.instituteofmaking.org.uk"
+    },
+    {
+      "label": "Locally Produced Prosthetics in Nepal",
+      "url": "https://at2030.org/prosthetics-nepal/"
+    },
+    {
+      "label": "Enabling Access Locally:",
+      "url": "https://at2030.org/a-systems-approach-to-wheelchair-provisioning-in-low-resource-contexts-nepal/"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "A Nepal-focused initiative connecting local and international assistive-technology expertise to address service gaps, including repair and locally developed solutions.",
+  "children": [
+    "local-systems-strengthening-nepal/enabling-fridays-community-building"
+  ],
+  "parent": null,
+  "record_type": "Programme or collection"
+}

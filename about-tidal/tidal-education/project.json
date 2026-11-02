@@ -1,0 +1,44 @@
+{
+  "slug": "about-tidal/tidal-education",
+  "title": "TIDAL: Education",
+  "source": "https://www.disabilityinnovation.com/projects/about-tidal/tidal-education",
+  "details": {
+    "Status": "Concluded",
+    "Work type": "Impart"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/180683/TIDAL-PAGES-2.webp?v=1788426071",
+    "alt": "People in meeting, discussing ideas"
+  },
+  "resources": [
+    {
+      "label": "Download the mentoring playbook",
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/playbook-for-mentoring-release-candidate.pdf?v=1733322471"
+    },
+    {
+      "label": "repair of P&O",
+      "url": "https://cdn.disabilityinnovation.com/uploads/documents/Repair-Workshop-PO-report-FINAL-SG-LG-EDIT.pdf?v=1730130370"
+    },
+    {
+      "label": "repair of wheelchairs",
+      "url": "https://cdn.disabilityinnovation.com/uploads/documents/publications/Repair-Workshop-Wheelchair-report-v4.pdf?v=1730815482"
+    },
+    {
+      "label": "SoRo-Health",
+      "url": "https://www.softroboticshealth.org.uk/"
+    },
+    {
+      "label": "webinar on current trends",
+      "url": "https://www.youtube.com/watch?v=iEi44D3ApUI&t=2s"
+    },
+    {
+      "label": "Download the Soft Robotics Workshop Report",
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/Soft-Robotics-workshop-report.pdf?v=1740406083"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "TIDAL supported researchers and innovators through training, funding-development workshops and opportunities to exchange knowledge about assistive technology.",
+  "children": [],
+  "parent": "about-tidal",
+  "record_type": "Project or resource profile"
+}

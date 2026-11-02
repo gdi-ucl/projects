@@ -1,0 +1,30 @@
+{
+  "slug": "improving-prosthetic-liners",
+  "title": "Improving prosthetic liners using wearable sensors, 3D printing and deep learning",
+  "source": "https://www.disabilityinnovation.com/projects/improving-prosthetic-liners",
+  "details": {
+    "Status": "Live",
+    "Project type": "Research",
+    "Country": "Global",
+    "Work type": "Inquire"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/189986/Amparo-prosthestics_2025-07-03-094455_dxat.webp?v=1788429855",
+    "alt": ""
+  },
+  "resources": [
+    {
+      "label": "A Deep Learning Approach to Non-linearity in Wearable Stretch Sensors",
+      "url": "https://www.researchgate.net/publication/332795335_A_Deep_Learning_Approach_to_Non-linearity_in_Wearable_Stretch_Sensors"
+    },
+    {
+      "label": "Additive manufacturing techniques for smart prosthetic liners",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1350453320301703?via%3Dihub"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "Research using sensing materials and digital fabrication to develop better-fitting prosthetic liners, including approaches that can respond to changes in limb shape or growth.",
+  "children": [],
+  "parent": null,
+  "record_type": "Project or resource profile"
+}

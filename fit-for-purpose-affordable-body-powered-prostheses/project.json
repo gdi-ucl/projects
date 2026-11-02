@@ -1,0 +1,35 @@
+{
+  "slug": "fit-for-purpose-affordable-body-powered-prostheses",
+  "title": "Fit-for-purpose, affordable body-powered prostheses",
+  "source": "https://www.disabilityinnovation.com/projects/fit-for-purpose-affordable-body-powered-prostheses",
+  "details": {
+    "Status": "Concluded",
+    "Project type": "Research",
+    "Dates": "February 2018  — January 2022",
+    "Country": "Jordan; Uganda; United Kingdom",
+    "Work type": "Include"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/355/2dc61dde-2fd0-4a76-b0ab-9a8d199fdb9b.webp?v=1788427057%2C0.4345%2C0.4927",
+    "alt": "Upper limb body powered prosthesis consisting of a hand and an arm that has two sections joined by a mechanical elbow. The arm section is made of a dark brow plastic material while the hand is covered by a sleeve that has a much lighter color, this contrast of colors is one of the reasons prosthetics users reject their prostheses."
+  },
+  "resources": [
+    {
+      "label": "Trent International Prosthetics Symposium (TIPS) 2019",
+      "url": "https://www.trent-prosthetics.com/"
+    },
+    {
+      "label": "SCOPE",
+      "url": "https://www.ipem.ac.uk/ScientificJournalsPublications/SCOPE.aspx"
+    },
+    {
+      "label": "overview of the findings of this project here.",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3373625.3417301?casa_token=KPAtV9Akv7YAAAAA:TeHADZh9oJTmd2NIBJvlHTeEWj4VkoIw101BOXBk1OAVxI478KBU97BNaisvyZsISMOrnpSgJCg"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "Research into affordable upper-limb prostheses whose design responds to users’ activities and the environments in which they live.",
+  "children": [],
+  "parent": null,
+  "record_type": "Project or resource profile"
+}

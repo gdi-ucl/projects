@@ -1,0 +1,30 @@
+{
+  "slug": "tokyo-2020-knowledge-exchange",
+  "title": "Tokyo 2020 - Knowledge Exchange",
+  "source": "https://www.disabilityinnovation.com/projects/tokyo-2020-knowledge-exchange",
+  "details": {},
+  "image": null,
+  "resources": [
+    {
+      "label": "British Council Japan",
+      "url": "https://www.britishcouncil.jp/en"
+    },
+    {
+      "label": "British Embassy Japan",
+      "url": "https://www.gov.uk/world/organisations/british-embassy-tokyo"
+    },
+    {
+      "label": "British Paralympic Association (BPA)",
+      "url": "https://paralympics.org.uk/"
+    },
+    {
+      "label": "UCL",
+      "url": "https://www.ucl.ac.uk/"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "An account of GDI’s July 2018 visit to Tokyo to exchange learning from London’s Paralympic legacy with Japanese partners ahead of Tokyo 2020.",
+  "children": [],
+  "parent": null,
+  "record_type": "Project or resource profile"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "phd-research-programme/improving-information-retrieval-about-assistive-technology-through-an-intelligent-insights-portal",
+  "title": "PhD Research: Improving information retrieval about assistive technology through an intelligent insights portal",
+  "source": "https://www.disabilityinnovation.com/projects/phd-research-programme/improving-information-retrieval-about-assistive-technology-through-an-intelligent-insights-portal",
+  "details": {
+    "Status": "Concluded",
+    "Project type": "Research",
+    "Work type": "Include"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/190053/pexels-tima-miroshnichenko-5717203.webp?v=1788436340",
+    "alt": "A Woman in an Orange Blazer Typing on a Laptop"
+  },
+  "resources": [
+    {
+      "label": "AT2030",
+      "url": "https://at2030.org/"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "Sahan Bulathwela’s doctoral research explored an AI-supported information portal to help decision-makers find and assess evidence about assistive technology.",
+  "children": [],
+  "parent": "phd-research-programme",
+  "record_type": "Project or resource profile"
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "innovation-action",
+  "title": "Innovation Action: a collaborative initiative to map global AT resources",
+  "source": "https://www.disabilityinnovation.com/projects/innovation-action",
+  "details": {
+    "Status": "Concluded",
+    "Project type": "Innovation",
+    "Country": "Kenya",
+    "Work type": "Inquire"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/57647/InnovationAction-Kenya-Ecosysstem.webp?v=1788431423",
+    "alt": ""
+  },
+  "resources": [
+    {
+      "label": "GDI Hub",
+      "url": "https://www.disabilityinnovation.com/"
+    },
+    {
+      "label": "UCL Engineering",
+      "url": "https://www.ucl.ac.uk/engineering/"
+    },
+    {
+      "label": "UK Aid",
+      "url": "https://www.ukaiddirect.org/"
+    },
+    {
+      "label": "Frontier Technologies Hub",
+      "url": "https://medium.com/frontier-technologies-hub"
+    },
+    {
+      "label": "AT2030",
+      "url": "https://at2030.org/"
+    },
+    {
+      "label": "UCL-Ventura CPAP in Africa",
+      "url": "https://www.innovationaction.org/cpap-in-africa/"
+    },
+    {
+      "label": "this dataset",
+      "url": "https://www.innovationaction.org/AT-ecosystem-kenya/"
+    },
+    {
+      "label": "University of Nairobi",
+      "url": "https://uonbi.ac.ke/"
+    },
+    {
+      "label": "Maynooth University",
+      "url": "https://www.maynoothuniversity.ie/all-institute"
+    },
+    {
+      "label": "Government of Kenya",
+      "url": "https://laboursp.go.ke/"
+    },
+    {
+      "label": "Local Production Solution Innovation",
+      "url": "https://www.innovationaction.org/lpls/"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "A collaborative initiative connecting people, challenges and resources to support innovation, developed with UCL Engineering and support from UK Aid programmes.",
+  "children": [],
+  "parent": null,
+  "record_type": "Project or resource profile"
+}

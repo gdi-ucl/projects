@@ -1,0 +1,50 @@
+{
+  "slug": "phd-research-programme/the-access-framework-using-inertial-sensors-to-understand-and-improve-manual-wheelchair-navigation-in-cities",
+  "title": "PhD Research: The ACCESS framework - Using inertial sensors to understand and improve manual wheelchair navigation in cities",
+  "source": "https://www.disabilityinnovation.com/projects/phd-research-programme/the-access-framework-using-inertial-sensors-to-understand-and-improve-manual-wheelchair-navigation-in-cities",
+  "details": {
+    "Status": "Concluded",
+    "Project type": "Research",
+    "Country": "United Kingdom",
+    "Work type": "Inquire"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/61793/nightpicturev2justend.webp?v=1788435066",
+    "alt": "A view of a park in London at night. A manual wheelchair user is propelling a wheelchair in this park. The wheelchair user is wearing an inertial sensor in the wrist, a second one is attached to the wheel. A trail of blue light shows the trajectory that the sensor measures from a couple propulsions of the wheelchair."
+  },
+  "resources": [
+    {
+      "label": "A Cross-Sectional Study",
+      "url": "https://doi.org/10.1007/978-3-030-20473-0_2"
+    },
+    {
+      "label": "Neuroergonomic Assessment of Wheelchair Control Using Mobile fNIRS",
+      "url": "https://doi.org/10.1109/TNSRE.2020.2987632"
+    },
+    {
+      "label": "Breathing Biofeedback Relaxation Intervention for Wheelchair Users in City Navigation",
+      "url": "https://doi.org/10.1109/EMBC44109.2020.9175692"
+    },
+    {
+      "label": "Novice vs Experienced Wheelchair Users: Perceived Difficulty of Task Performance With and Without a Push-Rim-Activated Power-Assisted Wheelchair (PAPAW)",
+      "url": "https://www.resna.org/sites/default/files/conference/2019/wheeled_mobility/Herrera.html"
+    },
+    {
+      "label": "Link to publication",
+      "url": "https://doi.org/10.1080/10400435.2019.1612384"
+    },
+    {
+      "label": "Towards a Wearable Wheelchair Monitor:",
+      "url": "https://ieeexplore.ieee.org/document/8616261"
+    },
+    {
+      "label": "Towards a Sensor-Based System",
+      "url": "https://dl.acm.org/doi/10.1145/3132525.3134805"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "Roxana Ramirez Herrera’s doctoral project combined inertial sensing and co-design to describe the effort involved in wheelchair journeys and inform route planning and urban accessibility.",
+  "children": [],
+  "parent": "phd-research-programme",
+  "record_type": "Project or resource profile"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "at2030/opd-capacity-building",
+  "title": "OPD Capacity Building",
+  "source": "https://www.disabilityinnovation.com/projects/at2030/opd-capacity-building",
+  "details": {
+    "Status": "Live",
+    "Country": "Asia; Africa",
+    "Work type": "Include"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/189045/Project-images-5.webp?v=1788427059",
+    "alt": "Two people talking at our OPD event in Kenya"
+  },
+  "resources": [
+    {
+      "label": "AT2030 programme",
+      "url": "https://at2030.org/"
+    },
+    {
+      "label": "Kilimanjaro Blind Trust Africa (KBTA)",
+      "url": "https://www.kilimanjaroblindtrust.org"
+    },
+    {
+      "label": "Special Talent Exchange Program (STEP)",
+      "url": "https://www.step.org.pk"
+    },
+    {
+      "label": "OPD Capacity Building for a Disability Inclusive Future Kenya Project Report",
+      "url": "https://www.at2030.org/opd-capacity-building-for-a-disability-inclusive-future-kenya-project-report/"
+    },
+    {
+      "label": "Empowering OPDs to Lead Change",
+      "url": "https://at2030.org/empowering-opds-to-lead-change/"
+    },
+    {
+      "label": "Assistive Technology User Fellowship:",
+      "url": "https://at2030.org/assistive-technology-user-fellowship/"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "A joint initiative with Kilimanjaro Blind Trust Africa supports Kenyan organisations of persons with disabilities through training in advocacy, organisational development, leadership and digital skills.",
+  "children": [],
+  "parent": "at2030",
+  "record_type": "Project or resource profile"
+}

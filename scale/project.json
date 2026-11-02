@@ -1,0 +1,35 @@
+{
+  "slug": "scale",
+  "title": "Scale Innovation",
+  "source": "https://www.disabilityinnovation.com/projects/scale",
+  "details": {
+    "Status": "Live",
+    "Work type": "Incubate"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/99458/MicrosoftTeams-image-4.webp?v=1788422631",
+    "alt": "Image of young women - wearing fashion led eye glasses - in a bright jumper"
+  },
+  "resources": [
+    {
+      "label": "Innovator Enquiry form",
+      "url": "https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&token=0ffbe585d5bb4c28930886b4145a832e&id=_oivH5ipW0yTySEKEdmlwsBuyjbqVX1Ju_vQ8vHVdItUN1cyN1dQQVlITDFNSDIwNEdWNk5UM1g3UC4u&analysis=false"
+    },
+    {
+      "label": "Making the direct-to-consumer model work for AT",
+      "url": "https://www.disabilityinnovation.com/blog/atif_blog_series_1"
+    },
+    {
+      "label": "Validate to find customers in AT ventures",
+      "url": "https://www.disabilityinnovation.com/blog/validate-to-find-customers"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "The scaling stage of GDI’s innovation support combines venture development and funding approaches to help assistive-technology businesses reach wider markets.",
+  "children": [
+    "scale/at2030-spark-innovation-programme",
+    "scale/lean-impact-measurement"
+  ],
+  "parent": null,
+  "record_type": "Programme or collection"
+}

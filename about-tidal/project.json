@@ -1,0 +1,32 @@
+{
+  "slug": "about-tidal",
+  "title": "Transformative Innovation in the delivery of Assisted Living Products and Services (TIDAL)",
+  "source": "https://www.disabilityinnovation.com/projects/about-tidal",
+  "details": {
+    "Status": "Concluded",
+    "Project type": "Research; Programmes",
+    "Dates": "January 2022  — December 2024",
+    "Work type": "Incubate"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/179242/Untitled-design-12_2024-11-29-163718_yaro.webp?v=1788422449%2C0.5%2C0.5",
+    "alt": "People chatting. Two are standing and one is sitting in a wheelchair. The Tidal logo can be seen in the right bottom corner"
+  },
+  "resources": [
+    {
+      "label": "EP/W000717/1",
+      "url": "https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W000717/1"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "TIDAL brought together research and practice to improve how assisted-living products and services are developed and delivered. The EPSRC-funded network ran from January 2022 to December 2024.",
+  "children": [
+    "about-tidal/tidal-blog-posts",
+    "about-tidal/tidal-community",
+    "about-tidal/tidal-education",
+    "about-tidal/tidal-feasibility-research",
+    "about-tidal/tidal-innovation"
+  ],
+  "parent": null,
+  "record_type": "Programme or collection"
+}

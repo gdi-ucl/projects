@@ -1,0 +1,57 @@
+{
+  "slug": "phd-research-programme/phd-research-tactile-displays-inclusive-education",
+  "title": "PhD Research: Towards Affordable Tactile Displays for Inclusive Education",
+  "source": "https://www.disabilityinnovation.com/projects/phd-research-programme/phd-research-tactile-displays-inclusive-education",
+  "details": {
+    "Status": "Concluded",
+    "Project type": "Research",
+    "Work type": "Include"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/190253/1t.001.webp?v=1788422889",
+    "alt": "Reading squares of various sizes and drawing freehand Tactile Shapes using Toodleoo"
+  },
+  "resources": [
+    {
+      "label": "Tigmanshu Bhatnagar",
+      "url": "https://www.disabilityinnovation.com/who-we-are/our-team/tiigmanshu-bhatnagar"
+    },
+    {
+      "label": "Designing a New Tactile Display Technology and its Disability Interactions",
+      "url": "https://discovery.ucl.ac.uk/id/eprint/10176514/14/Bhatnagar_10176514_thesis_revision_sigs_removed.pdf"
+    },
+    {
+      "label": "UCL–IIT Delhi Strategic Partnership Seed Fund",
+      "url": "https://www.ucl.ac.uk/global/ucl-iit-delhi-strategic-partner-funds"
+    },
+    {
+      "label": "PRET Printer:",
+      "url": "https://at2030.org/static/at2030_core/outputs/3674829.3675070.pdf"
+    },
+    {
+      "label": "Brilliance and Resilience:",
+      "url": "https://www.researchgate.net/publication/373383436_Brilliance_and_Resilience_A_New_Perspective_to_the_Challenges_Practices_and_Needs_of_University_Students_with_Visual_Impairments_in_India"
+    },
+    {
+      "label": "Pixelated Interactions:",
+      "url": "https://www.researchgate.net/publication/372243788_Pixelated_Interactions_Exploring_Pixel_Art_for_Graphical_Primitives_on_a_Pin_Array_Tactile_Display"
+    },
+    {
+      "label": "Analysis of Product Architectures of Pin Array Technologies for Tactile Displays",
+      "url": "https://www.researchgate.net/publication/375220112_Analysis_of_Product_Architectures_of_Pin_Array_Technologies_for_Tactile_Displays"
+    },
+    {
+      "label": "Drawing Erasable Tactile Diagrams on Tacilia",
+      "url": "https://discovery.ucl.ac.uk/id/eprint/10131452/1/0272.pdf"
+    },
+    {
+      "label": "Explore Tacilia's website",
+      "url": "https://sites.google.com/view/hellotacilia/home"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "Research into lower-cost tactile displays for blind learners, including Tacilia and Toodleoo, to support participation in STEAM education.",
+  "children": [],
+  "parent": "phd-research-programme",
+  "record_type": "Project or resource profile"
+}

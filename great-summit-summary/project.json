@@ -1,0 +1,50 @@
+{
+  "slug": "great-summit-summary",
+  "title": "GReAT Summit Summary",
+  "source": "https://www.disabilityinnovation.com/projects/great-summit-summary",
+  "details": {},
+  "image": null,
+  "resources": [
+    {
+      "label": "consultation for the Global Report on Assistive Technology (GReAT)",
+      "url": "https://www.who.int/phi/implementation/assistive_technology/great_consultation2019/en/"
+    },
+    {
+      "label": "AT2030 programme",
+      "url": "https://at2030.org/"
+    },
+    {
+      "label": "AT Innovation Ecosystem Design – A Kenyan Case Study:",
+      "url": "https://at2030.org/assistive-technology-innovation-ecosystem-design:-a-kenyan-case-study/"
+    },
+    {
+      "label": "Innovate Now Ecosystem in Nairobi.",
+      "url": "https://atinnovatenow.com/"
+    },
+    {
+      "label": "Overcoming systematic global barriers to AT: a new methodology and quick-start testing through a £20m programme:",
+      "url": "https://at2030.org/overcoming-systematic-global-barriers-to-assistive-technology:-a-new-methodology-and-quick-start-testing-through-a-20m-programme/"
+    },
+    {
+      "label": "scoping report on the barriers to AT access",
+      "url": "https://www.disabilityinnovation.com/uploads/images/AT-Scoping-Report_2019-compressed-19.pdf"
+    },
+    {
+      "label": "Mobile Phones as Assistive Technologies: Gaps and Opportunities:",
+      "url": "https://at2030.org/mobile-phones-as-assistive-technologies:-gaps-and-opportunities/"
+    },
+    {
+      "label": "ATscale – Establishing a Cross-Sector Partnership to Increase Access to Assistive Technology:",
+      "url": "https://at2030.org/atscale:-establishing-a-cross-sector-partnership-to-increase-access-to-assistive-technology/"
+    },
+    {
+      "label": "Applying Market Shaping Approaches to Increase Access to Assistive Technology: Summary of the Wheelchair Product Narrative:",
+      "url": "https://at2030.org/applying-market-shaping-approaches-to-increase-access-to-assistive-technology:-summary-of-the-wheelchair-product-narrative/"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "An account of GDI’s participation in the WHO consultation held in Geneva in August 2019 to inform the Global Report on Assistive Technology.",
+  "children": [],
+  "parent": null,
+  "record_type": "Project or resource profile"
+}

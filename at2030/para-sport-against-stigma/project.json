@@ -1,0 +1,37 @@
+{
+  "slug": "at2030/para-sport-against-stigma",
+  "title": "Para Sport Against Stigma",
+  "source": "https://www.disabilityinnovation.com/projects/at2030/para-sport-against-stigma",
+  "details": {
+    "Status": "Live",
+    "Country": "Africa",
+    "Work type": "Include"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/188925/Project-images-3.webp?v=1788437132",
+    "alt": "Two people running on a running track. One is a sighted support runner"
+  },
+  "resources": [
+    {
+      "label": "Youth Attitudes Towards Disability Sport & Assistive Technology",
+      "url": "https://at2030.org/youth-attitudes-towards-disability-sport/"
+    },
+    {
+      "label": "Disability, innovation and the power of Paralympic legacy",
+      "url": "https://at2030.org/beyond-sport-paris-reception/"
+    },
+    {
+      "label": "Uniting Nations:",
+      "url": "https://at2030.org/breaking-stigma-through-para-sports-and-assistive-technology-in-malawi/"
+    },
+    {
+      "label": "Evidence brief on engaging communities in Para sport in Malawi",
+      "url": "https://at2030.org/evidence-malawi/"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "This project combines Para athlete development, broadcasting and locally led storytelling to challenge disability stigma and support inclusion and assistive-technology access.",
+  "children": [],
+  "parent": "at2030",
+  "record_type": "Project or resource profile"
+}

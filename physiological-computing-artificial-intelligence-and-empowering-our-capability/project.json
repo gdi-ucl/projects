@@ -1,0 +1,35 @@
+{
+  "slug": "physiological-computing-artificial-intelligence-and-empowering-our-capability",
+  "title": "Physiological computing, artificial intelligence and empowering our capability",
+  "source": "https://www.disabilityinnovation.com/projects/physiological-computing-artificial-intelligence-and-empowering-our-capability",
+  "details": {
+    "Status": "Concluded",
+    "Project type": "Research",
+    "Dates": "July 2022",
+    "Country": "Global",
+    "Work type": "Inquire"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/118265/Comfort-AI-project-PI-Cho-2021-22-Funder-Bentley-Motors.webp?v=1788441766",
+    "alt": "A graphic of a person sat in a car wearing physiological sensors across their torso, wrist and legs"
+  },
+  "resources": [
+    {
+      "label": "Prof. Youngjun Cho Professor at UCL Computer Science & Director of MSc DDI & Lead of GDI Physiological Computing research",
+      "url": "https://www.disabilityinnovation.com/who-we-are/our-team/youngjun-cho"
+    },
+    {
+      "label": "Physiological Computing and Artificial Intelligence lab",
+      "url": "https://youngjuncho.com/physiological-computing-artificial-intelligence/"
+    },
+    {
+      "label": "Physiological Computing Lab",
+      "url": "https://github.com/PhysiologicAILab"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "An overview of Youngjun Cho’s work connecting physiological computing, artificial intelligence and accessible interaction to advance disability-related technologies.",
+  "children": [],
+  "parent": null,
+  "record_type": "Project or resource profile"
+}

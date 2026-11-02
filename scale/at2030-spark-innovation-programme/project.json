@@ -1,0 +1,22 @@
+{
+  "slug": "scale/at2030-spark-innovation-programme",
+  "title": "AT Impact Fund",
+  "source": "https://www.disabilityinnovation.com/projects/scale/at2030-spark-innovation-programme",
+  "details": {},
+  "image": null,
+  "resources": [
+    {
+      "label": "Assistive Technology Impact Fund (ATIF)",
+      "url": "https://atimpactfund.com/"
+    },
+    {
+      "label": "HearX’s",
+      "url": "https://www.hearxgroup.com/"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "The AT Impact Fund combines funding with specialist venture support to help assistive-technology businesses in Africa grow and test viable approaches to reaching users.",
+  "children": [],
+  "parent": "scale",
+  "record_type": "Project or resource profile"
+}

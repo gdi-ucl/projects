@@ -1,0 +1,41 @@
+{
+  "slug": "working-on-data-and-evidence-to-unlock-investment",
+  "title": "Working on data and evidence to unlock investment into assistive technology",
+  "source": "https://www.disabilityinnovation.com/projects/working-on-data-and-evidence-to-unlock-investment",
+  "details": {
+    "Status": "Live",
+    "Project type": "Research",
+    "Work type": "Invest"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/121899/Kate-instagram-ideas-6.webp?v=1788439302",
+    "alt": "A graphic image of a world map. Some countries are coloured in Purple representating collated data"
+  },
+  "resources": [
+    {
+      "label": "AT2030",
+      "url": "https://at2030.org/"
+    },
+    {
+      "label": "Prof Catherine Holloway (she/her) Co-founder & Academic Director; Professor, UCL",
+      "url": "https://www.disabilityinnovation.com/who-we-are/our-team/dr-catherine-holloway"
+    },
+    {
+      "label": "AT2030: Data and Evidence",
+      "url": "https://at2030.org/data-and-evidence/"
+    },
+    {
+      "label": "WHO-UNICEF Global Report on Assistive Technology",
+      "url": "https://apps.who.int/iris/bitstream/handle/10665/354357/9789240049451-eng.pdf?sequence=1&isAllowed=y"
+    },
+    {
+      "label": "Koalaa",
+      "url": "https://www.yourkoalaa.com/"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "An overview of the AT2030 evidence work overseen by Cathy Holloway, addressing information gaps that affect decisions about assistive-technology investment and provision.",
+  "children": [],
+  "parent": null,
+  "record_type": "Project or resource profile"
+}

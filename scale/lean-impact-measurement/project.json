@@ -1,0 +1,42 @@
+{
+  "slug": "scale/lean-impact-measurement",
+  "title": "Lean Impact Measurement for AT: capturing the changes in the quality of life",
+  "source": "https://www.disabilityinnovation.com/projects/scale/lean-impact-measurement",
+  "details": {
+    "Status": "Live",
+    "Project type": "Research; Innovation",
+    "Country": "India; Kenya; Sierra Leone; South Africa; Turkey; Uganda; Syria",
+    "Work type": "Inquire"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/107328/GDI-HUB_photo6.webp?v=1788441768",
+    "alt": "Discussion group sitting in a circle"
+  },
+  "resources": [
+    {
+      "label": "60 Decibels",
+      "url": "https://60decibels.com/"
+    },
+    {
+      "label": "AT2030 programme",
+      "url": "https://at2030.org/"
+    },
+    {
+      "label": "impact include our recent paper",
+      "url": "https://at2030.org/static/at2030_core/outputs/innovation_insights_miracle_feet.pdf"
+    },
+    {
+      "label": "Assistive Tech Impact Fund",
+      "url": "https://atimpactfund.com/"
+    },
+    {
+      "label": "MiracleFeet.",
+      "url": "https://www.miraclefeet.org/"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "A study of how assistive technology affects users’ everyday activities, independence and satisfaction with life, drawing on experiences across several companies.",
+  "children": [],
+  "parent": "scale",
+  "record_type": "Project or resource profile"
+}

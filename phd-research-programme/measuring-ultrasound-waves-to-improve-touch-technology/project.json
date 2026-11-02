@@ -1,0 +1,30 @@
+{
+  "slug": "phd-research-programme/measuring-ultrasound-waves-to-improve-touch-technology",
+  "title": "PhD Research: Measuring ultrasound waves to improve touch technology",
+  "source": "https://www.disabilityinnovation.com/projects/phd-research-programme/measuring-ultrasound-waves-to-improve-touch-technology",
+  "details": {
+    "Status": "Live",
+    "Project type": "Research",
+    "Country": "United Kingdom",
+    "Work type": "Inquire"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/116532/Pat-4_2022-10-17-084933_knhl.webp?v=1788528583",
+    "alt": ""
+  },
+  "resources": [
+    {
+      "label": "Dr Youngjun Cho",
+      "url": "https://www.disabilityinnovation.com/who-we-are/our-team/youngjun-cho"
+    },
+    {
+      "label": "Touchless AI",
+      "url": "https://www.touchlessai.eu/"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "Zak Morgan’s doctoral research investigated ultrasound measurement to inform tactile interfaces and improve access to technologies that depend on touch.",
+  "children": [],
+  "parent": "phd-research-programme",
+  "record_type": "Project or resource profile"
+}

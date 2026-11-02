@@ -1,0 +1,30 @@
+{
+  "slug": "smart-prosthetic-liners",
+  "title": "Smart Prosthetic Liners",
+  "source": "https://www.disabilityinnovation.com/projects/smart-prosthetic-liners",
+  "details": {
+    "Status": "Live",
+    "Project type": "Research",
+    "Country": "United Kingdom",
+    "Work type": "Inquire"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/123252/publications-page-4.webp?v=1788432767",
+    "alt": ""
+  },
+  "resources": [
+    {
+      "label": "https://doi.org/10.3389/frobt.2019.00027",
+      "url": "https://doi.org/10.3389/frobt.2019.00027"
+    },
+    {
+      "label": "https://doi.org/10.1016/j.medengphy.2020.11.006",
+      "url": "https://doi.org/10.1016/j.medengphy.2020.11.006"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "Research into prosthetic liners that combine custom fabrication with soft sensors, monitoring of limb changes and possible cooling functions.",
+  "children": [],
+  "parent": null,
+  "record_type": "Project or resource profile"
+}

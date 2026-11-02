@@ -1,0 +1,30 @@
+{
+  "slug": "artificial-intelligence-for-mental-wellbeing",
+  "title": "Artificial Intelligence for Mental Wellbeing Monitoring",
+  "source": "https://www.disabilityinnovation.com/projects/artificial-intelligence-for-mental-wellbeing",
+  "details": {
+    "Status": "Concluded",
+    "Project type": "Research",
+    "Country": "United Kingdom",
+    "Work type": "Inquire"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/847/mental_wellbeing_youngjun2.webp?v=1788443448",
+    "alt": "An image of mental stress monitoring."
+  },
+  "resources": [
+    {
+      "label": "https://arxiv.org/abs/1905.05144",
+      "url": "https://arxiv.org/abs/1905.05144"
+    },
+    {
+      "label": "https://mental.jmir.org/2019/4/e10140/",
+      "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmental.jmir.org%2F2019%2F4%2Fe10140%2F&data=02%7C01%7C%7C9611e690fa1048a363a508d75611c3aa%7C1faf88fea9984c5b93c9210a11d9a5c2%7C0%7C0%7C637072506601813193&sdata=WV6eSohZ%2Fxf%2BdZNlqhwo%2BhfNNPiuggXbUxSVaSbXoyI%3D&reserved=0"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "Research into affordable mobile-sensing approaches for measuring mental wellbeing in everyday environments.",
+  "children": [],
+  "parent": null,
+  "record_type": "Project or resource profile"
+}

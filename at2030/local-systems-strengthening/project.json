@@ -1,0 +1,38 @@
+{
+  "slug": "at2030/local-systems-strengthening",
+  "title": "Local Systems Strengthening",
+  "source": "https://www.disabilityinnovation.com/projects/at2030/local-systems-strengthening",
+  "details": {
+    "Status": "Live",
+    "Project type": "Research; Innovation",
+    "Country": "India; Kenya; Nepal; Sierra Leone",
+    "Work type": "Integrate"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/188735/inclusive-cities-3.webp?v=1788441757",
+    "alt": "Two people are sitting on a bench next to each other. One is trying on a prosthetic leg while someone sits in front of him and supports him. The participants' faces are blurred."
+  },
+  "resources": [
+    {
+      "label": "Discover more about this project on the AT2030 Website",
+      "url": "https://at2030.org/case-study-local-production/"
+    },
+    {
+      "label": "Locally Produced Prosthetics in Nepal",
+      "url": "https://at2030.org/prosthetics-nepal/"
+    },
+    {
+      "label": "Enabling Access Locally",
+      "url": "https://at2030.org/a-systems-approach-to-wheelchair-provisioning-in-low-resource-contexts-nepal/"
+    },
+    {
+      "label": "Community-led solutions",
+      "url": "https://at2030.org/at2030-community-led-solutions-assistive-technologies-in-informal-settlements-in-sierra-leone-and-indonesia/"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "Work to improve local assistive-technology systems by connecting users, providers and manufacturers, with attention to production, repair and continued support.",
+  "children": [],
+  "parent": "at2030",
+  "record_type": "Project or resource profile"
+}

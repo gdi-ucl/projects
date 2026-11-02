@@ -1,0 +1,35 @@
+{
+  "slug": "world-bank-ict",
+  "title": "World Bank: A Landscape Review of ICT for Disability-Inclusive Education",
+  "source": "https://www.disabilityinnovation.com/projects/world-bank-ict",
+  "details": {
+    "Status": "Concluded",
+    "Project type": "Research; Programmes",
+    "Dates": "June 2022",
+    "Country": "Global",
+    "Work type": "Inquire"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/178035/3ad38cee-ddd3-ecaf-884e-d7d95a16626a.webp?v=1788443442",
+    "alt": "A young man with a tablet and headphones is embraced by a smiling woman as they look at the screen together"
+  },
+  "resources": [
+    {
+      "label": "Report: ICT Landscape Review",
+      "url": "https://www.inclusive-education-initiative.org/events/ict-landscape-review-use-ict-improving-educational-participation-and-outcomes-children"
+    },
+    {
+      "label": "ICT Landscape review",
+      "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099840001312211991/p17136805cfd1f074095390cb6b01c0c715"
+    },
+    {
+      "label": "landscape review",
+      "url": "https://documents1.worldbank.org/curated/en/099840001312211991/pdf/P17136805cfd1f074095390cb6b01c0c715.pdf"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "A GDI review for the World Bank examines how information and communication technologies can support disabled children’s participation and outcomes in education.",
+  "children": [],
+  "parent": null,
+  "record_type": "Project or resource profile"
+}

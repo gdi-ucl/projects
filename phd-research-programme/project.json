@@ -1,0 +1,98 @@
+{
+  "slug": "phd-research-programme",
+  "title": "PhD Research Programme",
+  "source": "https://www.disabilityinnovation.com/projects/phd-research-programme",
+  "details": {
+    "Status": "Live",
+    "Project type": "Research",
+    "Work type": "Inquire"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/190038/250604_j-tye_ucl_356_ucl-east_3366.webp?v=1788435066",
+    "alt": "PhD students chatting in our design lab"
+  },
+  "resources": [
+    {
+      "label": "University College London",
+      "url": "https://www.ucl.ac.uk/prospective-students/graduate/research-degrees"
+    },
+    {
+      "label": "Loughborough London University",
+      "url": "https://www.lborolondon.ac.uk/study/research-degrees/"
+    },
+    {
+      "label": "University of the Arts London",
+      "url": "https://www.arts.ac.uk/"
+    },
+    {
+      "label": "UCLIC",
+      "url": "https://www.ucl.ac.uk/uclic/"
+    },
+    {
+      "label": "You can also explore our current PhD student projects",
+      "url": "https://www.ucl.ac.uk/uclic/research/research-projects?collection=drupal-brain-sciences-research-projects&meta_UclOrgUnit="
+    },
+    {
+      "label": "Cathy",
+      "url": "https://www.disabilityinnovation.com/who-we-are/our-team/dr-catherine-holloway"
+    },
+    {
+      "label": "Tim",
+      "url": "https://www.disabilityinnovation.com/who-we-are/our-team/tim-adlam"
+    },
+    {
+      "label": "Youngjun.",
+      "url": "https://www.disabilityinnovation.com/who-we-are/our-team/youngjun-cho"
+    },
+    {
+      "label": "UCL Development Planning Unit",
+      "url": "https://www.ucl.ac.uk/bartlett/development/"
+    },
+    {
+      "label": "UCL Institute of Making",
+      "url": "https://www.instituteofmaking.org.uk/"
+    },
+    {
+      "label": "UCL Institute for Innovation & Public Purpose",
+      "url": "https://www.ucl.ac.uk/bartlett/public-purpose/"
+    },
+    {
+      "label": "Aspire CREATe Centre for Rehabilitation Engineering and Assistive Technology",
+      "url": "https://www.ucl.ac.uk/surgery/research/materials-and-tissue/aspire-create-centre-rehabilitation-engineering-and-assistive"
+    },
+    {
+      "label": "UCL Institute for Healthcare Engineering",
+      "url": "https://www.ucl.ac.uk/healthcare-engineering/"
+    },
+    {
+      "label": "Salford University",
+      "url": "https://www.salford.ac.uk/"
+    },
+    {
+      "label": "Dr. Youngjun Cho",
+      "url": "https://www.disabilityinnovation.com/about/team/youngjun-cho"
+    },
+    {
+      "label": "Explore all PhD students' projects",
+      "url": "https://www.disabilityinnovation.com/search?q=PhD"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "An overview of interdisciplinary doctoral research associated with GDI and its academic partners, covering assistive technology and disability innovation.",
+  "children": [
+    "phd-research-programme/building-a-mobile-survey-collection-tool",
+    "phd-research-programme/designing-technology-for-blind-and-visually-impaired-people-outdoor-experiences",
+    "phd-research-programme/exploring-how-people-search-for-information-about-assistive-technology",
+    "phd-research-programme/forecasting-assistive-technology-needs-in-aged-and-ageing-populations",
+    "phd-research-programme/improving-information-retrieval-about-assistive-technology-through-an-intelligent-insights-portal",
+    "phd-research-programme/make-it-visible",
+    "phd-research-programme/measuring-physiological-signals-using-contactless-thermal-infrared-imaging",
+    "phd-research-programme/measuring-ultrasound-waves-to-improve-touch-technology",
+    "phd-research-programme/phd-research-tactile-displays-inclusive-education",
+    "phd-research-programme/technology-supported-capturing-and-sharing-of-multifaceted-running-experience",
+    "phd-research-programme/the-access-framework-using-inertial-sensors-to-understand-and-improve-manual-wheelchair-navigation-in-cities",
+    "phd-research-programme/virtual-reality-solutions-to-help-patients-with-dystonia"
+  ],
+  "parent": null,
+  "record_type": "Programme or collection"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "inpact",
+  "title": "Inclusive Public Activities for Information and Communication Technologies",
+  "source": "https://www.disabilityinnovation.com/projects/inpact",
+  "details": {
+    "Status": "Concluded",
+    "Project type": "Research; Advocacy",
+    "Dates": "December 2020",
+    "Country": "United Kingdom",
+    "Work type": "Impart"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/104796/Workshop_image.webp?v=1788443428",
+    "alt": "An illustration of two way collaboration between disabled people online"
+  },
+  "resources": [
+    {
+      "label": "Unlocking Inclusivity:",
+      "url": "https://www.disabilityinnovation.com/blog/unlocking-inclusivity-the-power-of-accessibility-in-ict"
+    },
+    {
+      "label": "Inclusive Public Activities for ICT",
+      "url": "https://www.disabilityinnovation.com/blog/inclusive-public-activities-for-ict-information-and-communication-technologies"
+    },
+    {
+      "label": "Disability-Inclusive ICT Research and Innovation",
+      "url": "https://www.disabilityinnovation.com/blog/disability-inclusive-ict-research-and-innovation-for-a-different-future"
+    },
+    {
+      "label": "Jumping through hoops",
+      "url": "https://www.disabilityinnovation.com/blog/jumping-through-hoops"
+    },
+    {
+      "label": "Advancing recognition of the positive impact of accessibility and digital inclusion on society",
+      "url": "https://www.disabilityinnovation.com/blog/advancing-recognition-of-the-positive-impact-of-accessibility-and-digital-inclusion-on-society"
+    },
+    {
+      "label": "European Accessibility Act",
+      "url": "https://www.disabilityinnovation.com/news/european-accessibility-act-"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "InPACT seeks to expand disabled people’s involvement in ICT research through inclusive research practices, digital skills and public engagement.",
+  "children": [
+    "inpact/inclusive-ict-research-panel"
+  ],
+  "parent": null,
+  "record_type": "Programme or collection"
+}

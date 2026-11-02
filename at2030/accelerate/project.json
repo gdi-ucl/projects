@@ -1,0 +1,34 @@
+{
+  "slug": "at2030/accelerate",
+  "title": "GDI Hub Accelerate",
+  "source": "https://www.disabilityinnovation.com/projects/at2030/accelerate",
+  "details": {
+    "Status": "Live",
+    "Project type": "Innovation",
+    "Country": "Asia; Africa",
+    "Work type": "Incubate"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/189178/Project-images-6.webp?v=1788425712",
+    "alt": "A person in a suit is giving a presentation to an audience. Behind them, a large screen displays an image of two black rings and a black band with a red accent."
+  },
+  "resources": [
+    {
+      "label": "Submit your innovator enquiry here to connect with GDI Hub Accelerate",
+      "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwsBuyjbqVX1Ju_vQ8vHVdItUN1cyN1dQQVlITDFNSDIwNEdWNk5UM1g3UC4u"
+    },
+    {
+      "label": "Innovate Now",
+      "url": "https://atinnovatenow.com"
+    },
+    {
+      "label": "Attvaran",
+      "url": "https://at2030.org/attvaran-india-launch/"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "Accelerate supports the development of assistive-technology ventures, from identifying ideas through to growth, using research, accelerator programmes and advisory support.",
+  "children": [],
+  "parent": "at2030",
+  "record_type": "Project or resource profile"
+}

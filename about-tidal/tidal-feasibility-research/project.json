@@ -1,0 +1,91 @@
+{
+  "slug": "about-tidal/tidal-feasibility-research",
+  "title": "TIDAL: Feasibility Research",
+  "source": "https://www.disabilityinnovation.com/projects/about-tidal/tidal-feasibility-research",
+  "details": {
+    "Status": "Concluded"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/180137/TIDAL-PAGES-1.webp?v=1788436341",
+    "alt": "hand holding pen near to notebook"
+  },
+  "resources": [
+    {
+      "label": "Video: An affordable and flexible prosthetic socket",
+      "url": "https://www.youtube.com/watch?v=Yb-UUXu8wuk&list=PLZi_mzfbwvfbAmTMzrmSNF209hD1ASHEj&index=4"
+    },
+    {
+      "label": "Open the report on prosthetic sockets",
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/Berthaume-LSBU-KCL-TIDAL-Network-Plus-feasibility-project-report.pdf?v=1733320308"
+    },
+    {
+      "label": "Video: A person based approach to the development of upper limb prostheses",
+      "url": "https://www.youtube.com/watch?v=fvQQvOBZcTQ&list=PLZi_mzfbwvfbAmTMzrmSNF209hD1ASHEj&index=7"
+    },
+    {
+      "label": "Open the report on upper limb prostheses",
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/Metcalfe-Jabban-Bath-Person-based-prostheses-Feasibility-Project-Report_FINAL.pdf?v=1733320389"
+    },
+    {
+      "label": "Video: Remote capture of patient data for bespoke socket design",
+      "url": "https://www.youtube.com/watch?v=0EDopYukxs8&list=PLZi_mzfbwvfbAmTMzrmSNF209hD1ASHEj&index=8"
+    },
+    {
+      "label": "Open the report on remote scanning",
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/241231-Seminati-Bailey-TIDAL-Report-Remote-Scanning-updated.pdf?v=1738593536"
+    },
+    {
+      "label": "Video: Algorithmic design of functionally graded prosthetic liners",
+      "url": "https://www.youtube.com/watch?v=46oP8zGUTxI&list=PLZi_mzfbwvfbAmTMzrmSNF209hD1ASHEj&index=11"
+    },
+    {
+      "label": "Open the report on prosthetic liners",
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/Oldfrey-UCL-prosthetic-liners_revised-FINAL-report.pdf?v=1738856152"
+    },
+    {
+      "label": "Video: Bespoke entry-level wheelchair rugby chairs through advanced distributed manufacturing",
+      "url": "https://www.youtube.com/watch?v=bs7p0Pw8oF4&list=PLZi_mzfbwvfbAmTMzrmSNF209hD1ASHEj&index=3"
+    },
+    {
+      "label": "Open the report on Bespoke entry-level Wheelchair Rugby chairs",
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/Whitehead-Aston-3D-printed-wheelchairs_revised_FINAL.pdf?v=1738856119"
+    },
+    {
+      "label": "Video: Improving the efficiency of co-designing personalised AT",
+      "url": "https://www.youtube.com/watch?v=I5VfA9z9nPg&list=PLZi_mzfbwvfbAmTMzrmSNF209hD1ASHEj&index=6"
+    },
+    {
+      "label": "Open the report on co-designing personalised assistive technology",
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/Howard-Swansea-Feasibility-Report-Improving-the-efficiency-of-co-designing-personalised-AT_FINAL.pdf?v=1733320816"
+    },
+    {
+      "label": "Video: Can a completely different kind of wheel improve quality of life for wheelchair users?",
+      "url": "https://www.youtube.com/watch?v=fXz3K1PeZek&list=PLZi_mzfbwvfbAmTMzrmSNF209hD1ASHEj&index=1"
+    },
+    {
+      "label": "Open the report on novel non-pneumatic wheelchair tyres",
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/Wyatt_Feasibility-report-FINAL-accessibility-checked.pdf?v=1733320869"
+    },
+    {
+      "label": "Video: Physiological validation of a novel photonic biosensor",
+      "url": "https://www.youtube.com/watch?v=54Um1xGlYg4&list=PLZi_mzfbwvfbAmTMzrmSNF209hD1ASHEj&index=2"
+    },
+    {
+      "label": "Open the report on sensors, data and communication",
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/Dyson-Feasibility-project-report-revised-FINAL.pdf?v=1738773108"
+    },
+    {
+      "label": "Video: How can we improve the experience of listening to music through hearing aids?",
+      "url": "https://www.youtube.com/watch?v=vCr0h8oKxjY&list=PLZi_mzfbwvfbAmTMzrmSNF209hD1ASHEj"
+    },
+    {
+      "label": "Open the report on improved communication of music via hearing aid",
+      "url": "https://cdn.disabilityinnovation.com/uploads/images/Williams-Salford-Feasibility-project-report-final.pdf?v=1733321006"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "Nine feasibility studies explored early assistive-technology concepts, including prosthetics, wheelchair design and communication support, with the aim of enabling further development.",
+  "children": [],
+  "parent": "about-tidal",
+  "record_type": "Project or resource profile"
+}

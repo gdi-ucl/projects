@@ -1,0 +1,44 @@
+{
+  "slug": "about-tidal/tidal-community",
+  "title": "TIDAL: Community",
+  "source": "https://www.disabilityinnovation.com/projects/about-tidal/tidal-community",
+  "details": {
+    "Status": "Concluded",
+    "Work type": "Incubate"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/179780/Untitled-design-13_2024-11-29-165944_wuzf.webp?v=1788436341",
+    "alt": "People sat at table with laptops and notebooks chatting"
+  },
+  "resources": [
+    {
+      "label": "Devices for Dignity",
+      "url": "https://devicesfordignity.org.uk/"
+    },
+    {
+      "label": "3DLifePrints",
+      "url": "https://www.3dlifeprints.com/team/"
+    },
+    {
+      "label": "Assistive Technology and Medical Devices Unit",
+      "url": "https://www.who.int/teams/health-product-policy-and-standards/assistive-and-medical-technology"
+    },
+    {
+      "label": "Watch the launch",
+      "url": "https://www.youtube.com/watch?v=VEwj-5VQrPQ&t=2s"
+    },
+    {
+      "label": "Watch our Responsible Engineering workshop",
+      "url": "https://www.youtube.com/watch?v=QtVFJjgqeTg&t=1s"
+    },
+    {
+      "label": "Watch our DMS workshop",
+      "url": "https://www.youtube.com/watch?v=xK6jMi_lIRk"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "TIDAL connected assistive-technology users, researchers, clinicians and industry through events and collaborative activities. The website reports a network spanning more than 200 organisations.",
+  "children": [],
+  "parent": "about-tidal",
+  "record_type": "Project or resource profile"
+}

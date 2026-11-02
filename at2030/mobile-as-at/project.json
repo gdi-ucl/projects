@@ -1,0 +1,101 @@
+{
+  "slug": "at2030/mobile-as-at",
+  "title": "Mobile as AT",
+  "source": "https://www.disabilityinnovation.com/projects/at2030/mobile-as-at",
+  "details": {
+    "Status": "Live",
+    "Country": "Asia; Africa",
+    "Work type": "Inquire"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/188956/Project-images-4.webp?v=1788421244",
+    "alt": "Two people are looking at a mobile phone"
+  },
+  "resources": [
+    {
+      "label": "ATscale",
+      "url": "https://atscalepartnership.org/"
+    },
+    {
+      "label": "Google",
+      "url": "https://belonging.google/in-products/disability-innovation"
+    },
+    {
+      "label": "ATscale",
+      "url": "https://atscalepartnership.org"
+    },
+    {
+      "label": "Mobile as AT Kenya",
+      "url": "https://at2030.org/mobile-as-at-kenya/"
+    },
+    {
+      "label": "Enhancing Communication Equity: Evaluation of an Automated Speech Recognition Application in Ghana",
+      "url": "https://www.at2030.org/evaluation-of-an-automated-speech-recognition-application-in-ghana/"
+    },
+    {
+      "label": "The Social Network: How People with Visual Impairment use Mobile Phones in Kibera, Kenya",
+      "url": "https://at2030.org/the-social-network:-how-people-with-visual-impairment-use-mobile-phones-in-kibera,-kenya/"
+    },
+    {
+      "label": "Bridging the Divide: Exploring the use of digital and physical technology to aid mobility impaired people living in an informal settlement",
+      "url": "https://at2030.org/bridging-the-divide/"
+    },
+    {
+      "label": "Inclusion and Independence: The impact of Mobile Technology on the Lives of Persons with Disabilities in Kenya and Bangladesh",
+      "url": "https://at2030.org/inclusion-and-independence/"
+    },
+    {
+      "label": "Book: case Study Disability Interactions within the AT2030 program in Kenya",
+      "url": "https://at2030.org/case-study-dix-within-at2030/"
+    },
+    {
+      "label": "Understanding the mobile disability gap",
+      "url": "https://at2030.org/understanding-the-mobile-disability-gap/"
+    },
+    {
+      "label": "Leveraging the Potential of Mobile for Persons with Disabilities",
+      "url": "https://at2030.org/leveraging-the-potential-of-mobile-for-persons-with-disabilities/"
+    },
+    {
+      "label": "Mobile technologies as assistive technologies in humanitarian and development contexts",
+      "url": "https://at2030.org/mobile-technologies-as-assistive-technologies-in-humanitarian-and-development-contexts/"
+    },
+    {
+      "label": "Mobile phones as assistive technologies: Gaps and opportunities",
+      "url": "https://at2030.org/mobile-phones-as-assistive-technologies/"
+    },
+    {
+      "label": "Assistive technology in your pocket: the transformative potential of smartphones",
+      "url": "https://at2030.org/assistive-technology-in-your-pocket/"
+    },
+    {
+      "label": "Digital Assistive Technology Challenges and Opportunities: The Potential of Mobile Devices (COSP16 side event recording)",
+      "url": "https://at2030.org/the-potential-of-mobile-devices-cosp16/"
+    },
+    {
+      "label": "Mobile Disability Gap webinar access and impact of mobile technology",
+      "url": "https://at2030.org/mobile-disability-gap-webinar/"
+    },
+    {
+      "label": "Google project to assist sight and hearing in India, Brazil, and Kenya",
+      "url": "https://at2030.org/mobile-phones-as-at-project/"
+    },
+    {
+      "label": "Video: How does mobile empower me? Joseph’s story",
+      "url": "https://at2030.org/how-does-mobile-empower-me-josephs-story/"
+    },
+    {
+      "label": "Techshare Pro 2019: The Future of Accessibility and Inclusive Design",
+      "url": "https://at2030.org/techshare-pro-2019-the-future-of-accessibility-and-inclusive-design/"
+    },
+    {
+      "label": "Exploring the experience of persons with disabilities of using mobile technology in their daily lives in Kenya and Bangladesh",
+      "url": "https://at2030.org/using-mobile-technology-in-daily-lives-in-kenya-and-bangladesh/"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "Research and partnerships exploring smartphones as assistive technology for communication, learning and independent living, including work in Kenya, India and Brazil.",
+  "children": [],
+  "parent": "at2030",
+  "record_type": "Project or resource profile"
+}

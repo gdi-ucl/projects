@@ -1,0 +1,38 @@
+{
+  "slug": "phd-research-programme/forecasting-assistive-technology-needs-in-aged-and-ageing-populations",
+  "title": "PhD Research: Forecasting assistive technology needs in aged and ageing populations",
+  "source": "https://www.disabilityinnovation.com/projects/phd-research-programme/forecasting-assistive-technology-needs-in-aged-and-ageing-populations",
+  "details": {
+    "Status": "Live",
+    "Project type": "Research",
+    "Country": "Global",
+    "Work type": "Inquire"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/190367/live-lab-1.webp?v=1788431248",
+    "alt": ""
+  },
+  "resources": [
+    {
+      "label": "Demographic, socioeconomic, and social barriers to use of mobility assistive products:",
+      "url": "https://www.disabilityinnovation.com/publications/demographic-socioeconomic-barriers"
+    },
+    {
+      "label": "Estimating need and coverage for five priority assistive products: a systematic review of global population-based research",
+      "url": "https://gh.bmj.com/content/7/1/e007662"
+    },
+    {
+      "label": "Measuring assistive technology supply and demand: A scoping review",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/10400435.2021.1957039?scroll=top&needAccess=true"
+    },
+    {
+      "label": "AT Data Portal",
+      "url": "https://at2030.org/at-data-portal/map/"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "Jamie Danemayer’s doctoral work investigated how limited existing data could support estimates of future assistive-technology requirements as populations age.",
+  "children": [],
+  "parent": "phd-research-programme",
+  "record_type": "Project or resource profile"
+}

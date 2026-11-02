@@ -1,0 +1,26 @@
+{
+  "slug": "pact",
+  "title": "PACT (Playful Assistive Technology for Complex Trauma Healing in Children and Young People)",
+  "source": "https://www.disabilityinnovation.com/projects/pact",
+  "details": {},
+  "image": null,
+  "resources": [
+    {
+      "label": "EPSRC",
+      "url": "https://www.ukri.org/"
+    },
+    {
+      "label": "UCLIC",
+      "url": "https://www.ucl.ac.uk/uclic"
+    },
+    {
+      "label": "Anna Freud",
+      "url": "https://www.annafreud.org/"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "PACT investigates co-designed technologies that support therapeutic play for children affected by complex trauma. The collaboration brings together UCLIC, GDI and Anna Freud expertise.",
+  "children": [],
+  "parent": null,
+  "record_type": "Project or resource profile"
+}

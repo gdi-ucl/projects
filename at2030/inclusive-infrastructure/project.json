@@ -1,0 +1,61 @@
+{
+  "slug": "at2030/inclusive-infrastructure",
+  "title": "Inclusive infrastructure and design",
+  "source": "https://www.disabilityinnovation.com/projects/at2030/inclusive-infrastructure",
+  "details": {
+    "Status": "Live",
+    "Country": "Asia; Africa",
+    "Work type": "Integrate"
+  },
+  "image": {
+    "url": "https://cdn.disabilityinnovation.com/uploads/images/_heroImage/188584/inclusive-cities-1.webp?v=1788441769",
+    "alt": "Person in wheelchair approaching place of worship in India"
+  },
+  "resources": [
+    {
+      "label": "The Global Action and Comparison Reports",
+      "url": "https://www.disabilityinnovation.com/publications/inclusive-cities"
+    },
+    {
+      "label": "Find out more on the AT2030 website",
+      "url": "https://at2030.org/inclusive-cities/"
+    },
+    {
+      "label": "A Comparison Report",
+      "url": "https://cdn.disabilityinnovation.com/uploads/documents/GDI_Hub_-_A_global_comparison_report_on_Inclusive_Infrastruct_zaYpq3a_compressed.pdf?v=1747297696"
+    },
+    {
+      "label": "The Global Action Report",
+      "url": "https://at2030.org/static/at2030_core/outputs/GDI_Hub_-_A_global_action_report_on_Delivering_Inclusive_Desi_vV9Id7s.pdf"
+    },
+    {
+      "label": "Ulaanbaatar, Mongolia",
+      "url": "https://at2030.org/summary-of-inclusive-design-and-accessibility-of-the-built-environment-in-ulaanbaatar-mongolia/"
+    },
+    {
+      "label": "Varanasi, India",
+      "url": "https://at2030.org/inclusive-design-and-accessibility-of-the-built-environment-in-varanasi-india/"
+    },
+    {
+      "label": "Surakarta, Indonesia",
+      "url": "https://at2030.org/inclusive-design-and-accessibility-of-the-built-environment-in-solo,-indonesia/"
+    },
+    {
+      "label": "Nairobi, Kenya​",
+      "url": "https://at2030.org/case-study-nairobi/"
+    },
+    {
+      "label": "Freetown, Sierra Leone",
+      "url": "https://at2030.org/sierra-leone-case-study/"
+    },
+    {
+      "label": "Medellin, Colombia",
+      "url": "https://at2030.org/medellin/"
+    }
+  ],
+  "checked": "2026-11-02",
+  "summary": "This AT2030 work examines how inclusive planning and design can remove environmental barriers to using assistive technology and participating in everyday life.",
+  "children": [],
+  "parent": "at2030",
+  "record_type": "Project or resource profile"
+}
